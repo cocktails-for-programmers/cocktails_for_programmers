@@ -10,6 +10,8 @@ PS: хотелось бы перевести на другие языки.
 
 ### Ruby
 
+<img src="http://habr.habrastorage.org/post_images/c50/c74/b1b/c50c74b1bad7a7a785c5055eaeb6a0aa.jpg" alt="Ruby" title="Ruby" />
+
 ```
 - 20 кокосовый ликер "Малибу"
 - 20 ликер "Личи"
