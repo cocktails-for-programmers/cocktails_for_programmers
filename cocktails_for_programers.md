@@ -1,6 +1,8 @@
 ## Cocktails for Programmers
 
-A culinary project for a professional holiday - "Programmers Day", celebrated on the 256th day of the year. This year Programmers Day is Friday the 13th of September! :)
+A culinary project for a professional holiday - "Programmers Day", celebrated on the 256th day of the year.
+
+This year Programmers Day is Friday the 13th of September! :)
 
 Here is the GitHub version for forks and pull-requests.
 
@@ -21,10 +23,11 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 ```
 
 **Directions:**
-1. Add basic ingredients into a high glass filled with ice.
-2. Add lemon juice to taste.
-3. Thoroughly mix until the glass is misted.
-4. Garnish with a piece of orange and cocktail cherry.
+
+1.  Add basic ingredients into a high glass filled with ice.
+2.  Add lemon juice to taste.
+3.  Thoroughly mix until the glass is misted.
+4.  Garnish with a piece of orange and cocktail cherry.
 
 The drink will be sweet, fragnant, and fresh. This ruby-coloured cocktail perfectly matches the Ruby logo.
 
@@ -43,9 +46,10 @@ The drink will be sweet, fragnant, and fresh. This ruby-coloured cocktail perfec
 ```
 
 **Directions:**
-1. Shake together with ice and strain.
-2. Pour into a glass and add Sprite or 7 Up.
-3. Garnish with a piece of lime.
+
+1.  Shake together with ice and strain.
+2.  Pour into a glass and add Sprite or 7 Up.
+3.  Garnish with a piece of lime.
 
 This cocktail must be served fast - its froth dissapears quickly. This drink has a fresh pineapple taste.
 
@@ -63,8 +67,9 @@ This cocktail must be served fast - its froth dissapears quickly. This drink has
 ```
 
 **Directions:**
-1. Shake together with ice and strain.
-2. Garnish with [physalis](http://en.wikipedia.org/wiki/Physalis).
+
+1.  Shake together with ice and strain.
+2.  Garnish with [physalis](http://en.wikipedia.org/wiki/Physalis).
 
 ## JMP (aka Assembler)
 
@@ -78,7 +83,7 @@ This cocktail must be served fast - its froth dissapears quickly. This drink has
 
 **Directions:**
 
-1. Pour all the ingredients with a bar spoon in a high shot glass layer-by-layer.
+1.  Pour all the ingredients with a bar spoon in a high shot glass layer-by-layer.
 
 ### Profit!
 
@@ -93,9 +98,10 @@ This cocktail must be served fast - its froth dissapears quickly. This drink has
 ```
 
 **Directions:**
-1. Shake together with ice and strain.
-2. Garnish with whipped cream and dust with cocoa powder (use a sifter for better results).
-3. Put a cherry on top.
+
+1.  Shake together with ice and strain.
+2.  Garnish with whipped cream and dust with cocoa powder (use a sifter for better results).
+3.  Put a cherry on top.
 
 This cocktail is pretty sweet with an interesting taste.
 
@@ -111,9 +117,10 @@ This cocktail is pretty sweet with an interesting taste.
 ```
 
 **Directions:**
-1. Fill a glass of ice with all ingredients.
-2. Thoroughly mix till the glass is misted.
-3. Garnish with a lemon slice.
+
+1.  Fill a glass of ice with all ingredients.
+2.  Thoroughly mix till the glass is misted.
+3.  Garnish with a lemon slice.
 
 By design, the lemon and Coke conceal the taste of alcohol. But if you go too far, it will be a real epic fail. Be careful if you want to try something like this!
 
@@ -131,9 +138,10 @@ By design, the lemon and Coke conceal the taste of alcohol. But if you go too fa
 ```
 
 **Directions:**
-1. Fill a glass with ice and small pieces of lime.
-2. Add the rest of the ingredients and mix.
-3. Garnish with a lime and you've got tasty and stunning drink.
+
+1.  Fill a glass with ice and small pieces of lime.
+2.  Add the rest of the ingredients and mix.
+3.  Garnish with a slice of lime and you've got tasty and stunning drink.
 
 ### Cocktails were made by
 
