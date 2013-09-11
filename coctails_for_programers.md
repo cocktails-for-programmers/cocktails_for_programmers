@@ -108,6 +108,7 @@ By design, lemon and coke conceal the taste of an alcohol. But if you go too far
 * Making - Artem aka "Salatych ★ Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
 * Photo - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
 * Idea - Ilya Zykin. [github.com/the-teacher](https://github.com/the-teacher)
+* En version - [Sergey Romanov](https://github.com/srg-rmnv)
 
 ##### Published by MIT :)
 
