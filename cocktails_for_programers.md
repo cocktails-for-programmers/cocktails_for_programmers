@@ -113,7 +113,7 @@ By design, lemon and coke conceal the taste of an alcohol. But if you go too far
 
 **Howto:** Fill a glass with ice and small pieces of lime and add the rest, than mix it. Dress with a lime and you've got tasty and stunning drink. 
 
-### Coctails were made by
+### Cocktails were made by
 
 * Making - Artem aka "Salatych ★ Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
 * Photo - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
