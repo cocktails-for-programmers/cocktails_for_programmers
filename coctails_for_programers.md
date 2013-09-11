@@ -1,4 +1,4 @@
-## Coctails for programmers
+## Cocktails for programmers
 
 Culinary project timed to a proffosional holiday - "the Programmers day", celebrating at 256th day of a year. In september '13 this day occurs at friday 13th :)
 
