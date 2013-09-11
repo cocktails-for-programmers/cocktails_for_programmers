@@ -14,6 +14,9 @@
 
 <img src="http://habr.habrastorage.org/post_images/d9a/b87/91d/d9ab8791dff93a03020fc96faf408c48.jpg" alt="Ruby" title="Ruby" />
 
+<img src="http://habr.habrastorage.org/post_images/c50/c74/b1b/c50c74b1bad7a7a785c5055eaeb6a0aa.jpg" alt="Ruby" title="Ruby" />
+
+
 ```
 - 20 кокосовый ликер "Малибу"
 - 20 ликер "Личи"
@@ -26,6 +29,8 @@
 **Что делали:** добавили основные ингредиенты в высокий стакан наполненый льдом. Добавили сок лимона (по-вкусу). Тщательно перемешали до "запотевания" стакана. Украсили ломтиком апельсина и коктейльной вишней. Напиток получился достаточно сладкий, ароматный, освежающий. Рубиново-красный цвет коктейля отлично подходит под логотип языка ruby.
 
 ### Python
+
+<img src="http://habr.habrastorage.org/post_images/a81/043/540/a81043540b546fe94fd3f8228c1be439.jpg" alt="Python" title="Python" />
 
 <img src="http://habr.habrastorage.org/post_images/8b2/170/619/8b21706197f93ffde4f8f1d7cb9c444b.jpg" alt="Python" title="Python" />
 
@@ -41,7 +46,9 @@
 
 ### Суровый Perl
 
-<img src="http://habr.habrastorage.org/post_images/335/a14/7a8/335a147a8eff811aa6cf6470c84181bd.jpg" alt="Суровый Perl" title="Суровый Perl" />
+<img src="http://habr.habrastorage.org/post_images/122/4c2/773/1224c27737964d566311aae4fae37829.jpg" alt="Severe Perl" title="Severe Perl" />
+
+<img src="http://habr.habrastorage.org/post_images/335/a14/7a8/335a147a8eff811aa6cf6470c84181bd.jpg" alt="Severe Perl" title="Severe Perl" />
 
 ```
 - 30 джин
