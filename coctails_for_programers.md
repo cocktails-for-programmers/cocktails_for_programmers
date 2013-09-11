@@ -29,7 +29,7 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 - 30 mint liqueur
 - 30 pineapple juice
 - 1/2 lemon juice
-- Sprite
+- Sprite (7up)
 ```
 
 **Howto:** Whip basic ingridients with ice in a shaker. Pour into the glass, add Sprite (or 7-up), dress with a piece of lime. Coctail must be served fast - its froth dissapears quickly. The drink came out fresh with a pineapple taste.
