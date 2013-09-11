@@ -36,7 +36,10 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 
 ### Severe Perl
 
+<img src="http://habr.habrastorage.org/post_images/122/4c2/773/1224c27737964d566311aae4fae37829.jpg" alt="Severe Perl" title="Severe Perl" />
+
 <img src="http://habr.habrastorage.org/post_images/335/a14/7a8/335a147a8eff811aa6cf6470c84181bd.jpg" alt="Severe Perl" title="Severe Perl" />
+
 
 ```
 - 30 gin
