@@ -1,6 +1,6 @@
-## Coctails for programmers
+## Cocktails for programmers
 
-* [English version](coctails_for_programers.md)
+* [English version](cocktails_for_programers.md)
 
 ## Коктейли для программистов
 
