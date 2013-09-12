@@ -18,6 +18,7 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 - 20 cocoa liqueur "Malibu"
 - 20 "Lychee" liqueur
 - 40 cognac or brandy
+- cherry juice
 - lemon
 - ice
 ```
