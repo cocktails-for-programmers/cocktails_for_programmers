@@ -25,6 +25,7 @@ PS: [Great comments on Reddit](http://www.reddit.com/r/programming/comments/1m6n
 - 20 mL Malibu (coconut liqueur)
 - 20 mL Lychee Liqueur (a fruit)
 - 40 mL Cognac or Brandy
+- 150 mL sour cherry juice 
 - Lemon
 - Ice
 ```
