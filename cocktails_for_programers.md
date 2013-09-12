@@ -150,7 +150,8 @@ By design, the lemon and Coke conceal the taste of alcohol. But if you go too fa
 * Making - Artem aka "Salatych ★ Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
 * Photo - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
 * Idea - Ilya Zykin. [github.com/the-teacher](https://github.com/the-teacher)
-* English version - [Sergey Romanov](https://github.com/srg-rmnv)
+* English v1.0 - [Sergey Romanov](https://github.com/srg-rmnv)
+* English v2.0 - [Trevor Strieber](https://github.com/TrevorS)
 
 ##### Published by MIT :)
 
