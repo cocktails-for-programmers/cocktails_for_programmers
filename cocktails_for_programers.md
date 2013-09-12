@@ -59,6 +59,8 @@ This cocktail must be served fast - its froth dissapears quickly. This drink has
 
 ### Severe Perl
 
+Associations: severe, dry, desert, camel.
+
 <img src="http://habr.habrastorage.org/post_images/122/4c2/773/1224c27737964d566311aae4fae37829.jpg" alt="Severe Perl" title="Severe Perl" />
 
 <img src="http://habr.habrastorage.org/post_images/335/a14/7a8/335a147a8eff811aa6cf6470c84181bd.jpg" alt="Severe Perl" title="Severe Perl" />
@@ -90,6 +92,8 @@ This cocktail must be served fast - its froth dissapears quickly. This drink has
 1.  Pour all the ingredients with a bar spoon in a high shot glass layer-by-layer.
 
 ### Profit!
+
+Profit! should be sweet and airy. That's how we saw this cocktail.
 
 <img src="http://habr.habrastorage.org/post_images/962/c3f/122/962c3f12264c8baf7c00d7f5c2322905.jpg" alt="Profit!" title="Profit!"/>
 
