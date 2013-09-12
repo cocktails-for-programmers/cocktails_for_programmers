@@ -35,7 +35,7 @@ The drink will be sweet, fragnant, and fresh. This ruby-coloured cocktail perfec
 
 ### Python
 
-This cocktail looks like [green pyhon](https://www.google.ru/search?q=green+pyhon&ie=UTF-8&tbm=isch&source=og)
+This cocktail looks like [green python](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og)
 
 <img src="http://habr.habrastorage.org/post_images/a81/043/540/a81043540b546fe94fd3f8228c1be439.jpg" alt="Python" title="Python" />
 
