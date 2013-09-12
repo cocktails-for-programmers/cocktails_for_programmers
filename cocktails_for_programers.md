@@ -105,7 +105,7 @@ By design, lemon and coke conceal the taste of an alcohol. But if you go too far
 
 ```
 - 50 tequila
-- 50 рwhite rum
+- 50 white rum
 - 50 triple sec 
 - 50 kahlua
 - lime
