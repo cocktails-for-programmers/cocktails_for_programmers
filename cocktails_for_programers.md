@@ -6,6 +6,8 @@ Here you can see the github-version for forks and pull-requests.
 
 Original post: http://habrahabr.ru/post/192942/ (in russian)
 
+PS: Everything in gramms
+
 ### Ruby
 
 <img src="http://habr.habrastorage.org/post_images/d9a/b87/91d/d9ab8791dff93a03020fc96faf408c48.jpg" alt="Ruby" title="Ruby" />
