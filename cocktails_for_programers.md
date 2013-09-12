@@ -8,9 +8,12 @@ Here is the GitHub version for forks and pull-requests.
 
 Original post: http://habrahabr.ru/post/192942/ (in russian)
 
-* [Versão em Português](coqueteis_para_programadores.md)
-
 PS: [Great comments on Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
+
+#### Versions
+
+* [Russian version](README.md)
+* [Versão em Português](coqueteis_para_programadores.md)
 
 ### Ruby
 
