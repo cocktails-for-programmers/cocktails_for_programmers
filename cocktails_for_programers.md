@@ -8,6 +8,9 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 
 PS: Everything in gramms
 
+PPS: [Great comments on Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
+
+
 ### Ruby
 
 <img src="http://habr.habrastorage.org/post_images/d9a/b87/91d/d9ab8791dff93a03020fc96faf408c48.jpg" alt="Ruby" title="Ruby" />
