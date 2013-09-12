@@ -22,7 +22,7 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 - ice
 ```
 
-**Howto:** add basic ingridients into a high glass filled with ice. Add lemon juice (as you wish). Thoroughly mix till the glass is misted. Dress with a piece of orange and coctail cherry. The drink came out sweet, fragnant, fresh. Ruby-coloured coctail perfectly fits to the Ruby logo.
+**Howto:** add basic ingredients into a high glass filled with ice. Add lemon juice (as you wish). Thoroughly mix till the glass is misted. Dress with a piece of orange and coctail cherry. The drink came out sweet, fragnant, fresh. Ruby-coloured coctail perfectly fits to the Ruby logo.
 
 ### Python
 
@@ -39,7 +39,7 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 - Sprite (7up)
 ```
 
-**Howto:** Whip basic ingridients with ice in a shaker. Pour into the glass, add Sprite (or 7-up), dress with a piece of lime. Coctail must be served fast - its froth dissapears quickly. The drink came out fresh with a pineapple taste.
+**Howto:** Whip basic ingredients with ice in a shaker. Pour into the glass, add Sprite (or 7-up), dress with a piece of lime. Coctail must be served fast - its froth dissapears quickly. The drink came out fresh with a pineapple taste.
 
 ### Severe Perl
 
@@ -67,7 +67,7 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 - 20 P-each (peach syrup)
 ```
 
-**Howto** Pour all the ingridients with a bar spoon in a high shot glass layer-by-layer.
+**Howto** Pour all the ingredients with a bar spoon in a high shot glass layer-by-layer.
 
 ### Profit!
 
@@ -94,7 +94,7 @@ Original post: http://habrahabr.ru/post/192942/ (in russian)
 - ice
 ```
 
-**Howto:** Fill a glass of ice with all ingridients. Thoroughly mix till the glass is misted. Dress with a lemon.
+**Howto:** Fill a glass of ice with all ingredients. Thoroughly mix till the glass is misted. Dress with a lemon.
 
 By design, lemon and coke conceal the taste of an alcohol. But if you go too far, it would be real epic fail. Be careful if you want to try something like this.
 
