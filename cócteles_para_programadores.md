@@ -11,10 +11,13 @@ Publicación Original: http://habrahabr.ru/post/192942/ (en ruso)
 P.D: [Buenos comentarios en Reddit] (http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/) (inglés)
 
 #### Versiones
-* [English version] (cocktails_for_programers.md)
+
 * [Russian version](README.md)
-* [Versão em Português](coqueteis_para_programadores.md) (Brazilian Portuguese)
+* [English version](cocktails_for_programers.md)
+* [Versão em Português](coqueteis_para_programadores.md)
 * [Versiunea in Romana](cocktailuri_pentru_programatori.md)
+* [Versión en Español](cócteles_para_programadores.md)
+* [Version in Deutsch](cocktails_fuer_programmierer.md)
 
 ### Ruby
 
