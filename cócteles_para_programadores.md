@@ -171,13 +171,3 @@ Por diseño el limón y el refresco esconden el sabor del alcohol. Pero si te pa
 
 
 
-
-
-###¡Compartelo! Te toma un montón de trabajo este aporte, pero al final da absoluta satisfacción y alivio
-
-
-
-
-
-
-
