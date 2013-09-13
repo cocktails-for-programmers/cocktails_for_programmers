@@ -12,10 +12,10 @@ PS: [Great comments on Reddit](http://www.reddit.com/r/programming/comments/1m6n
 
 #### Versions
 
-* [Russian version](README.md)
+* [Pусская версия](README.md)
 * [English version](cocktails_for_programers.md)
 * [Versão em Português](coqueteis_para_programadores.md)
-* [Versiunea in Romana](cocktailuri_pentru_programatori.md)
+* [Versiunea Română](cocktailuri_pentru_programatori.md)
 * [Versión en Español](cócteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
 
