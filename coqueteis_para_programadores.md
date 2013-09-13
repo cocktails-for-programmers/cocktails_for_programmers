@@ -1,5 +1,12 @@
 ## Coquetéis para Programadores
 
+* [Russian version](README.md)
+* [English version](cocktails_for_programers.md)
+* [Versão em Português](coqueteis_para_programadores.md)
+* [Versiunea in Romana](cocktailuri_pentru_programatori.md)
+* [Versión en Español](cócteles_para_programadores.md)
+* [Version in Deutsch](cocktails_fuer_programmierer.md)
+
 Um projeto culinário para um feriado profissional - o "Dia do Programador", comemorado no 256º dia do ano.
 
 Nesse ano, o Dia do Programador é na sexta-feira 13 de setembro! :)
@@ -9,6 +16,7 @@ Essa é a versão do GitHub para forks e pull-requests.
 Post original: http://habrahabr.ru/post/192942/ (in russian)
 
 PS: [Ótimos comentários no Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
+
 
 ### Ruby
 
