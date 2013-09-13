@@ -173,7 +173,7 @@ Por diseño el limón y el refresco esconden el sabor del alcohol. Pero si te pa
 
 
 
-###¡Compartelo! Tomará un montón de trabajo y supone un aporte, pero al final da absoluta satisfacción y alivio
+###¡Compartelo! Te toma un montón de trabajo este aporte, pero al final da absoluta satisfacción y alivio
 
 
 
