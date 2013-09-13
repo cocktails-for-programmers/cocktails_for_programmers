@@ -14,6 +14,7 @@ PS: [Great comments on Reddit](http://www.reddit.com/r/programming/comments/1m6n
 
 * [Russian version](README.md)
 * [Versão em Português](coqueteis_para_programadores.md) (Brazilian Portuguese)
+* [Romanian](cocktailuri_pentru_programatori.md)
 
 ### Ruby
 
