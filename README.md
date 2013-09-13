@@ -3,6 +3,7 @@
 * [English version](cocktails_for_programers.md)
 * [Versão em Português](coqueteis_para_programadores.md)
 * [Versiunea in Romana](cocktailuri_pentru_programatori.md)
+* [Versión en Español](cócteles_para_programadores.md)
 
 ## Коктейли для программистов
 
