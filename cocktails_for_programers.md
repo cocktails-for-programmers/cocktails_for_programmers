@@ -41,7 +41,7 @@ PS: [Great comments on Reddit](http://www.reddit.com/r/programming/comments/1m6n
 3.  Thoroughly mix until the glass is misted.
 4.  Garnish with a slice of orange and a maraschino cherry.
 
-The drink will be sweet, fragnant, and fresh. This ruby-coloured cocktail perfectly matches the Ruby logo.
+The drink will be sweet, fragrant, and fresh. This ruby-coloured cocktail perfectly matches the Ruby logo.
 
 ### Python
 
