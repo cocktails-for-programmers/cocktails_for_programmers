@@ -6,6 +6,7 @@
 * [Versiunea Română](cocktailuri_pentru_programatori.md)
 * [Versión en Español](cócteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
+* [Version in Chinese](程序员鸡尾酒.md)
 
 ## Коктейли для программистов
 
