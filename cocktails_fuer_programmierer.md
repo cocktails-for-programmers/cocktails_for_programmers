@@ -13,9 +13,12 @@ PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comm
 #### Versionen
 
 * [Pусская версия](README.md)
-* [Versão em Português](coqueteis_para_programadores.md) (Brazilian Portuguese)
+* [English version](cocktails_for_programers.md)
+* [Versão em Português](coqueteis_para_programadores.md)
 * [Versiunea Română](cocktailuri_pentru_programatori.md)
-* [Version in deutsch](cocktails_fuer_programmierer.md)
+* [Versión en Español](cócteles_para_programadores.md)
+* [Version in Deutsch](cocktails_fuer_programmierer.md)
+* [Version in Chinese](程序员鸡尾酒.md)
 
 ### Ruby
 
