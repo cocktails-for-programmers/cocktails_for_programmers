@@ -12,9 +12,9 @@ PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comm
 
 #### Versionen
 
-* [Russian version](README.md)
+* [Pусская версия](README.md)
 * [Versão em Português](coqueteis_para_programadores.md) (Brazilian Portuguese)
-* [Versiunea in Romana](cocktailuri_pentru_programatori.md)
+* [Versiunea Română](cocktailuri_pentru_programatori.md)
 * [Version in deutsch](cocktails_fuer_programmierer.md)
 
 ### Ruby
