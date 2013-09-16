@@ -1,12 +1,5 @@
 ## Coquetéis para Programadores
 
-* [Pусская версия](README.md)
-* [English version](cocktails_for_programers.md)
-* [Versão em Português](coqueteis_para_programadores.md)
-* [Versiunea Română](cocktailuri_pentru_programatori.md)
-* [Versión en Español](cócteles_para_programadores.md)
-* [Version in Deutsch](cocktails_fuer_programmierer.md)
-
 Um projeto culinário para um feriado profissional - o "Dia do Programador", comemorado no 256º dia do ano.
 
 Nesse ano, o Dia do Programador é na sexta-feira 13 de setembro! :)
@@ -17,6 +10,15 @@ Post original: http://habrahabr.ru/post/192942/ (in russian)
 
 PS: [Ótimos comentários no Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
 
+#### Versions
+
+* [Pусская версия](README.md)
+* [English version](cocktails_for_programers.md)
+* [Versão em Português](coqueteis_para_programadores.md)
+* [Versiunea Română](cocktailuri_pentru_programatori.md)
+* [Versión en Español](cócteles_para_programadores.md)
+* [Version in Deutsch](cocktails_fuer_programmierer.md)
+* [Version in Chinese](程序员鸡尾酒.md)
 
 ### Ruby
 
