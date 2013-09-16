@@ -28,6 +28,7 @@ PS: [Ótimos comentários no Reddit](http://www.reddit.com/r/programming/comment
 - 20 mL Malibu (licor de coco)
 - 20 mL Licor de Lichia (uma fruta)
 - 40 mL Conhaque ou Brandy
+- 150 mL Suco de cereja
 - Limão
 - Gelo
 ```
