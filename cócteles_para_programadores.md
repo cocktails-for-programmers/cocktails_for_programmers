@@ -18,6 +18,7 @@ P.D: [Buenos comentarios en Reddit] (http://www.reddit.com/r/programming/comment
 * [Versiunea Română](cocktailuri_pentru_programatori.md)
 * [Versión en Español](cócteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
+* [Version in Chinese](程序员鸡尾酒.md)
 
 ### Ruby
 
