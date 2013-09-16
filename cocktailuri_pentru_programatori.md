@@ -1,21 +1,21 @@
 ## Cocktailuri pentru Programatori
 
-Un proiect culinar pentru o zi de munca libera - "Ziua Programatorilor", sarbatorita in a 256-a zi din an.
+Un proiect culinar pentru o zi de muncă liberă - "Ziua Programatorilor", sărbătorită în a 256-a zi din an.
 
-In acest an, ziua programatorilor este sarbatorita Vineri 13 Septembrie! :)
+În acest an, ziua programatorilor este sărbătorită Vineri 13 Septembrie! :)
 
-Versiune GitHub pentru forks si pull-requests.
+Versiunea GitHub pentru forks și pull-requests.
 
-Articol original: http://habrahabr.ru/post/192942/ (in Rusa)
+Articol original: http://habrahabr.ru/post/192942/ (în Rusă)
 
-PS: [Comentarii pe Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
+P.S.: [Comentarii pe Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
 
-#### Versiuni
+#### Versiuni lingvistice
 
-* [Russian version](README.md)
+* [Pусская версия](README.md)
 * [English version](cocktails_for_programers.md)
 * [Versão em Português](coqueteis_para_programadores.md)
-* [Versiunea in Romana](cocktailuri_pentru_programatori.md)
+* [Versiunea Română](cocktailuri_pentru_programatori.md)
 * [Versión en Español](cócteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
 
@@ -29,23 +29,23 @@ PS: [Comentarii pe Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/c
 - 20 mL Malibu (lichior de cocos)
 - 20 mL Lichior Lychee (fruct)
 - 40 mL Coniac sau Brandy
-- 150 mL Suc de cirese
-- Lamaie
-- Gheata
+- 150 mL Suc de cireșe
+- Lămâie
+- Gheață
 ```
 
-**Preparare:**
+**Mod de preparare:**
 
-1.  Se adauga ingredientele de baza intr-un pahar mare plin cu gheata.
-2.  Se adauga lamaie dupa gust.
-3.  Se mixeaza pana gheta se sparge.
-4.  Se orneaza cu o felie de portocala si o cireasa.
+1.  Se adaugă ingredientele de bază într-un păhar mare plin cu gheață.
+2.  Se adaugă lămâie după gust.
+3.  Se mixează până când aburește păharul.
+4.  Se decorează cu o felie de portocală și o cireașă.
 
-Bautura o sa fie dulce, parfumata si proaspata. Culoarea cocktail-ului este asemanatoare cu a logo-ului Ruby.
+Bautura va fi dulce, parfumata și proaspata. Culoarea cocktail-ului este asemanatoare cu a logo-ului Ruby.
 
 ### Python
 
-Acest cocktail arata ca un [piton verde](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
+Acest cocktail arată ca un [piton verde](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
 
 <img src="http://habr.habrastorage.org/post_images/a81/043/540/a81043540b546fe94fd3f8228c1be439.jpg" alt="Python" title="Python" />
 
@@ -53,19 +53,19 @@ Acest cocktail arata ca un [piton verde](https://www.google.ru/search?q=green+py
 
 ```
 - 50 mL Rom alb
-- 30 mL Lichior de menta
+- 30 mL Lichior de mentă
 - 30 mL Suc de ananas
-- Suc din jumatate de lamaie
-- Sprite sau 7 Up
+- Suc din jumătate de lamâie
+- Sprite sau 7Up
 ```
 
-**Preparare:**
+**Mod de preparare:**
 
-1.  Se amesteca toate ingredientele cu gheata.
-2.  Se pun intr-un pahar si se adauga Sprite sau 7 Up.
-3.  Se orneaza cu o felie de lamaie verde (lime).
+1.  Se amestecă toate ingredientele cu gheață.
+2.  Se pun într-un pahar și se adaugă Sprite sau 7Up.
+3.  Se ornează cu o felie de lamâie verde (lime).
 
-Acest cocktail trebuie servit repede - spuma dispare repede. Are un gust proaspat de ananas.
+Acest cocktail trebuie servit repede - spuma dispare în câteva clipe. Are un gust proaspăt de ananas.
 
 ### Severe Perl
 
@@ -77,15 +77,15 @@ Asocieri: Puternic, sec, desert, camila.
 
 ```
 - 30 mL Gin
-- 20 mL Vermut rosu sec
-- 20 mL Suc de lamaie
+- 20 mL Vermut roșu sec
+- 20 mL Suc de lămâie
 - 10 mL Sirop
 ```
 
-**Preparare:**
+**Mod de preparare:**
 
-1.  Se amesteca toate ingredientele cu gheata.
-2.  Se orneaza cu [physalis](http://en.wikipedia.org/wiki/Physalis).
+1.  Se amestecă toate ingredientele cu gheață.
+2.  Se ornează cu [physalis](http://en.wikipedia.org/wiki/Physalis).
 
 ## JMP (aka Assembler)
 
@@ -93,13 +93,13 @@ Asocieri: Puternic, sec, desert, camila.
 
 ```
 - 20 mL Jagermeister (lichior din plante)
-- 20 mL Midori (lichior pepene galben) + Lamaie verde (lime)
+- 20 mL Midori (lichior pepene galben) + Lămâie verde (lime)
 - 20 mL Sirop de piersici
 ```
 
-**Preparare:**
+**Mod de preparare:**
 
-1.  Se amesteca toate ingredientele cu o lingura de bar, intr-un pahar inalt pentru shot, strat cu strat.
+1.  Se amestecă toate ingredientele cu o lingura de bar, într-un pahar înalt pentru shot, strat cu strat.
 
 ### Profit!
 
@@ -109,19 +109,19 @@ Cocktail-ul Profit trebuie sa fie dulce.
 
 ```
 - 20 mL Lichior cremos
-- 20 mL Lichior de coacaze negre
+- 20 mL Lichior de coacază neagră
 - 20 mL Triplu Sec
-- Frisca
+- Frișca
 - Cacao
 ```
 
-**Preparare:**
+**Mod de preparare:**
 
-1.  Se amesteca toate ingredientele cu gheata.
-2.  Se orneaza cu frisca si se presara cacao peste (se poate folosii o sita).
-3.  Se adauga o cireasa in mijloc.
+1.  Se amestecă toate ingredientele cu gheață.
+2.  Se ornează cu frișcă și se presoară praf de cacao (se poate folosii o sita).
+3.  Se adaugă o cireașă în mijloc.
 
-Acest cocktail este foarte dulce si cu un gust interesant.
+Acest cocktail este foarte dulce și cu un gust deosebit.
 
 ### Epic Fail
 
@@ -130,17 +130,17 @@ Acest cocktail este foarte dulce si cu un gust interesant.
 ```
 - 50 mL Vodka
 - 100 mL Cola
-- Suc din jumatate de lamaie
-- Gheata
+- Suc din jumătate de lămâie
+- Gheață
 ```
 
-**Preparare:**
+**Mod de preparare:**
 
-1.  Se umple un pahar cu gheata si se adauga toate ingredientele.
-2.  Se mixeaza (amesteca) pana gheata se sparge.
-3.  Se orneaza cu o felie de lamaie.
+1.  Se umple un pahar cu gheață și se adaugă toate ingredientele.
+2.  Se mixează (amestecă) bine  până când aburește păharul.
+3.  Se ornează cu o felie de lămâie.
 
-Lamaia si cola ascund gustul de alcool, dar daca bei prea mult, o sa beneficiezi de un real "EPIL FAIL".
+Lamaia și cola ascund gustul de alcool, dar dacă întreci măsura, vei beneficia de un "EPIL FAIL" adevărat.
 
 ### Memory Leak
 
@@ -151,17 +151,17 @@ Lamaia si cola ascund gustul de alcool, dar daca bei prea mult, o sa beneficiezi
 - 50 mL Rom alb
 - 50 mL Triplu Sec
 - 50 mL Kahlua
-- Lamaie verde
+- Lămâie verde
 - Cola
 ```
 
-**Preparare:**
+**Mod de preparare:**
 
-1.  Se umple un pahar cu gheata si cu mici felii de lamaie verde.
-2.  Se adauga restul ingredientelor si se amesteca.
-3.  Se orneaza cu o felie de lamaie si obtineti o bautura gustoasa.
+1.  Se umple un pahar cu gheață și cu mici felii de lămâie verde.
+2.  Se adaugă restul ingredientelor și se amestecă.
+3.  Se ornează cu o felie de lămâie și obțineți o bautură gustoasă.
 
-### Cocktail-urile au fost facute de
+### Cocktail-urile au fost făcute de:
 
 * Creare - Artem aka "Salatych ★ Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
 * Foto - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
