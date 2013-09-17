@@ -207,7 +207,7 @@ leaves, 4 tsp. cane sugar, half a lemon and a water carbonator:
    to hot and your carbonator is made of plastic it might melt!)
 5. After carbonating the mate, add your sirup
 
-You could also add everything right away, but the suggar and lime juice will
+You could also add everything right away, but the suggar and lemon juice will
 mess up your carbonator and it's really hard to clean afterwards!
 
 
