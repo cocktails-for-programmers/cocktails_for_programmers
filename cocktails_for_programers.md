@@ -167,7 +167,7 @@ Tschunk is a famous Hacker cocktail that was developed around the "Chaos
 Computer Club" in Berlin and is now well known to many Hackers in Europe. The combination
 of alcohol and coffein (from the
 [mate](http://en.wikipedia.org/wiki/Mate_(beverage)) makes it highly
-vitalizing at first. But don't shoot over the [Ballmer
+vitalizing at first. But don't shoot over your [Ballmer
 Peak](http://xkcd.com/323/) ;)
 
 <img src="http://farm8.staticflickr.com/7387/9783299973_95dda19722_o.jpg"
@@ -183,18 +183,18 @@ alt="Tschunk" title="Tschunk">
 
 **Directions:**
 
-1. To garnish: Sweep over the edge of the glas with a lime wedge, then wallow
+1. To garnish: Sweep over the edge of the glass with a lime wedge, then wallow
    the edge in a plate of cane sugar
 2. Dice the lime and fill it in the glass together with the sugar
-3. Squash them with a wooden pestle
-4. Fill the glas with crushed ice
+3. Squash the ingredients in the glass with a wooden pestle
+4. Fill the glass with crushed ice
 5. Add the rum
 6. Carefully add the carbonated mate-extract (might foam over!)
 7. Carefully stir it a bit
 8. Garnish with a straw and a lime slice
 
 **Note:** [Club-Mate](http://en.wikipedia.org/wiki/Club-Mate) is currently
-distributed to 40 countries. If yours not in the list, there are many
+distributed to 40 countries. If yours is not in the list, there are many
 alternatives, and you can even brew it yourself. All you need is 4 tsp. mate
 leaves, 4 tsp. cane sugar, half a lemon and a water carbonator:
 
@@ -203,9 +203,10 @@ leaves, 4 tsp. cane sugar, half a lemon and a water carbonator:
    into a sirup
 3. Add the mate leaves to the rest of the water and allow it to infuse for
    approx. 4 Minutes.
-4. Cool it down, until you can safely use your water carbonator (if its still
-   to hot and your carbonator is made of plastic it might melt!)
-5. After carbonating the mate, add your sirup
+4. Cool it down, until you can safely use your water carbonator (if it's still
+   too hot and your carbonator is made out of plastic it might melt!)
+5. After carbonating the mate, add your sirup (both must still be a little warm)
+6. Refrigerate it
 
 You could also add everything right away, but the suggar and lemon juice will
 mess up your carbonator and it's really hard to clean afterwards!
