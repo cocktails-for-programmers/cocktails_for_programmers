@@ -163,10 +163,10 @@ By design, the lemon and Coke conceal the taste of alcohol. But if you go too fa
 
 ### Tschunk
 
-Tschunk is a famous Hacker cocktail that was developed around the Chaos
-Computer Club and is now well known by many Hackers in Europe. The combination
+Tschunk is a famous Hacker cocktail that was developed around the "Chaos
+Computer Club" in Berlin and is now well known to many Hackers in Europe. The combination
 of alcohol and coffein (from the
-[mate](http://en.wikipedia.org/wiki/Mate_(beverage))) makes it highly
+[mate](http://en.wikipedia.org/wiki/Mate_(beverage)) makes it highly
 vitalizing at first. But don't shoot over the [Ballmer
 Peak](http://xkcd.com/323/) ;)
 
@@ -183,8 +183,8 @@ alt="Tschunk" title="Tschunk">
 
 **Directions:**
 
-1. To garnish: Sweep over the edge of the glas with a lime wedge and wallow it
-   in a plate of cane sugar
+1. To garnish: Sweep over the edge of the glas with a lime wedge, then wallow
+   the edge in a plate of cane sugar
 2. Dice the lime and fill it in the glass together with the sugar
 3. Squash them with a wooden pestle
 4. Fill the glas with crushed ice
@@ -196,7 +196,18 @@ alt="Tschunk" title="Tschunk">
 **Note:** [Club-Mate](http://en.wikipedia.org/wiki/Club-Mate) is currently
 distributed to 40 countries. If yours not in the list, there are many
 alternatives, and you can even brew it yourself. All you need is 4 tsp. mate
-leaves, 4 tsp. cane sugar, half a lemon and a water carbonator.
+leaves, 4 tsp. cane sugar, half a lemon and a water carbonator:
+1. Boil 1L of water
+2. In a small cup add suggar and lemon juice and approx. 20mL water to make it
+   into a sirup
+3. Add the mate leaves to the rest of the water and allow it to infuse for
+   approx. 4 Minutes.
+4. Cool it down, until you can safely use your water carbonator (if its still
+   to hot and your carbonator is made of plastic it might melt!)
+5. After carbonating the mate, add your sirup
+
+You could also add everything right away, but the suggar and lime juice will
+mess up your carbonator and it's really hard to clean afterwards!
 
 
 ### Cocktails were made by
