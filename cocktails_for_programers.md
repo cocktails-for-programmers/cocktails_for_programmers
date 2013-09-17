@@ -161,6 +161,44 @@ By design, the lemon and Coke conceal the taste of alcohol. But if you go too fa
 2.  Add the rest of the ingredients and mix.
 3.  Garnish with a slice of lime and you've got tasty and stunning drink.
 
+### Tschunk
+
+Tschunk is a famous Hacker cocktail that was developed around the Chaos
+Computer Club and is now well known by many Hackers in Europe. The combination
+of alcohol and coffein (from the
+[mate](http://en.wikipedia.org/wiki/Mate_(beverage))) makes it highly
+vitalizing at first. But don't shoot over the [Ballmer
+Peak](http://xkcd.com/323/) ;)
+
+<img src="http://farm8.staticflickr.com/7387/9783299973_95dda19722_o.jpg"
+alt="Tschunk" title="Tschunk">
+
+```
+- 160mL Carbonated mate-extract (best results with Club-Mate)
+- 40mL Rum (best results with Havana Añejo 3 Años)
+- 1/2 Lime
+- 1 tbsp. cane sugar
+- Crushed ice
+```
+
+**Directions:**
+
+1. To garnish: Sweep over the edge of the glas with a lime wedge and wallow it
+   in a plate of cane sugar
+2. Dice the lime and fill it in the glass together with the sugar
+3. Squash them with a wooden pestle
+4. Fill the glas with crushed ice
+5. Add the rum
+6. Carefully add the carbonated mate-extract (might foam over!)
+7. Carefully stir it a bit
+8. Garnish with a straw and a lime slice
+
+**Note:** [Club-Mate](http://en.wikipedia.org/wiki/Club-Mate) is currently
+distributed to 40 countries. If yours not in the list, there are many
+alternatives, and you can even brew it yourself. All you need is 4 tsp. mate
+leaves, 4 tsp. cane sugar, half a lemon and a water carbonator.
+
+
 ### Cocktails were made by
 
 * Making - Artem aka "Salatych ★ Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
