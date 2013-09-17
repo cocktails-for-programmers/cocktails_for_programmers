@@ -199,9 +199,9 @@ alternatives, and you can even brew it yourself. All you need is 4 tsp. mate
 leaves, 4 tsp. cane sugar, half a lemon and a water carbonator:
 
 1. Boil 1L of water
-2. In a small cup add suggar and lemon juice and approx. 20mL water to make it
+2. In a small cup add suggar and lemon juice and approx. 20mL of the boiling water to make it
    into a sirup
-3. Add the mate leaves to the rest of the water and allow it to infuse for
+3. Add the mate leaves to the rest of the boiling water and allow it to infuse for
    approx. 4 Minutes.
 4. Cool it down, until you can safely use your water carbonator (if it's still
    too hot and your carbonator is made out of plastic it might melt!)
