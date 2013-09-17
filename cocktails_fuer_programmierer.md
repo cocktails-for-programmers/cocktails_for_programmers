@@ -36,7 +36,7 @@ PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comm
 
 1.  Fülle die Grundzutaten in ein hohes, eisgefülltes Glas.
 2.  Mit Zitronensaft abschmecken.
-3.  Gründlich mixen, bis das Glas beschlägt.
+3.  Gründlich durchmischen, bis das Glas beschlägt.
 4.  Mit einer Orangenscheibe und Cocktailkirsche garnieren.
 
 Das Getränk ist süß, duftend und erfrischend. Dieser rubinrote Cocktail passt perfekt zum Ruby-Logo.
@@ -135,7 +135,7 @@ Dieser Cocktail ist ziemlich süß und hat einen interessanten Geschmack.
 **Anleitung:**
 
 1.  Befülle ein eisgefülltes Glas mit allen Zutaten.
-2.  Gründlich mixen, bis das Glas beschlägt.
+2.  Gründlich durchmischen, bis das Glas beschlägt.
 3.  Mit einer Zitronenscheibe garnieren.
 
 Wie beabsichtigt, kaschieren Zitrone und Cola den Alkoholgeschmack. Wenn man es aber zu weit treibt, endet es in einem echten Epic Fail. Sei vorsichtig, wenn du so etwas ausprobieren willst!
