@@ -1,12 +1,12 @@
 ## Cocktails für Programmierer
 
-Ein kulinarisches Projekt für eine professionelle Auszeit - den "Programmierer-Tag", zelebriert am 256ten Tag des Jahres.
+Ein kulinarisches Projekt für eine professionelle Auszeit - den "Programmierer-Tag", zelebriert am 256. Tag des Jahres.
 
 Der diesjährige Programmierer-Tag ist Freitag, der 13. September! :)
 
 Dies ist die GitHub-Version für Forks und Pull-Requests.
 
-Original Post: http://habrahabr.ru/post/192942/ (in russisch)
+Original Post: http://habrahabr.ru/post/192942/ (auf Russisch)
 
 PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
 
@@ -15,7 +15,7 @@ PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comm
 * [Russian version](README.md)
 * [Versão em Português](coqueteis_para_programadores.md) (Brazilian Portuguese)
 * [Versiunea in Romana](cocktailuri_pentru_programatori.md)
-* [Version in deutsch](cocktails_fuer_programmierer.md)
+* [Version auf Deutsch](cocktails_fuer_programmierer.md)
 
 ### Ruby
 
@@ -25,7 +25,7 @@ PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comm
 
 ```
 - 20 mL Malibu (Kokosnuslikör)
-- 20 mL Lychee Likör (a fruit)
+- 20 mL Litschi Likör (eine Frucht)
 - 40 mL Cognac oder Brandy
 - 150 mL Kirschsaft
 - Zitrone
@@ -36,7 +36,7 @@ PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comm
 
 1.  Fülle die Grundzutaten in ein hohes, eisgefülltes Glas.
 2.  Mit Zitronensaft abschmecken.
-3.  Gewissenhaft mixen, bis das Glas beschlägt.
+3.  Gründlich mixen, bis das Glas beschlägt.
 4.  Mit einer Orangenscheibe und Cocktailkirsche garnieren.
 
 Das Getränk ist süß, duftend und erfrischend. Dieser rubinrote Cocktail passt perfekt zum Ruby-Logo.
@@ -59,7 +59,7 @@ Dieser Cocktail sieht aus wie eine [grüne Python](https://www.google.ru/search?
 
 **Anleitung:**
 
-1.  Gewissenhaft mit Eis mixen. 
+1.  Mit Eis mixen und abseihen. 
 2.  In ein Glas gießen und Sprite oder 7 Up zugeben.
 3.  Mit einer Limettenscheibe garnieren.
 
@@ -82,8 +82,8 @@ Erinnert an: rau, trocken, Wüste, Kamel.
 
 **Anleitung:**
 
-1.  Gewissenhaft mit Eis mixen.
-2.  Mit [Physalis](http://en.wikipedia.org/wiki/Physalis) garnieren.
+1.  Mit Eis mixen and abseihen.
+2.  Mit [Physalis](http://de.wikipedia.org/wiki/Blasenkirschen) garnieren.
 
 ## JMP (aka Assembler)
 
@@ -115,11 +115,11 @@ Profit! sollte süß und luftig sein. So haben wir diesen Cocktail kennengelernt
 
 **Anleitung:**
 
-1.  Gewissenhaft mit Eis mixen.
+1.  Mit Eis mixen und abseihen.
 2.  Mit Schlagsahne garnieren und Kakaopulver besträuen (nimm ein Sieb zur Hilfe).
 3.  Setze eine Kirsche auf die Spitze.
 
-Dieser Cocktail ziemlich süß, mit einem interessanten Geschmack.
+Dieser Cocktail ist ziemlich süß, mit einem interessanten Geschmack.
 
 ### Epic Fail
 
@@ -135,7 +135,7 @@ Dieser Cocktail ziemlich süß, mit einem interessanten Geschmack.
 **Anleitung:**
 
 1.  Befülle ein eisgefülltes Glas mit allen Zutaten.
-2.  Gewissenhaft mixen, bis das Glas beschlägt.
+2.  Gründlich mixen, bis das Glas beschlägt.
 3.  Mit einer Zitronenscheibe garnieren.
 
 Wie beabsichtigt, kaschieren Zitrone und Cola den Alkoholgeschmack. Wenn man es aber zu weit treibt, endet es in einem echten Epic Fail. Sei vorsichtig, wenn du so etwas ausprobieren willst!

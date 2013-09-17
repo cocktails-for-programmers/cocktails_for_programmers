@@ -17,7 +17,7 @@ PS: [Comentarii pe Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/c
 * [Versão em Português](coqueteis_para_programadores.md)
 * [Versiunea in Romana](cocktailuri_pentru_programatori.md)
 * [Versión en Español](cócteles_para_programadores.md)
-* [Version in Deutsch](cocktails_fuer_programmierer.md)
+* [Version auf Deutsch](cocktails_fuer_programmierer.md)
 
 ### Ruby
 
