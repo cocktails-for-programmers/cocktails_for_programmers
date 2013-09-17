@@ -68,6 +68,24 @@ This cocktail looks like a [green python](https://www.google.ru/search?q=green+p
 
 This cocktail must be served fast - its froth dissapears quickly. This drink has a fresh pineapple taste.
 
+### Node.js
+
+Also known as `Grasshopper`.
+
+<img src="http://k31.kn3.net/4/2/B/B/8/8/DEB.jpg" alt="Node.js" title="Node.js" />
+
+```
+- 25 mL Green Crème de menthe
+- 25 mL White Crème de Cacao
+- 25 mL Light cream
+```
+
+**Directions:**
+
+1.  Shake all with ice and strain.
+2.  Sprinkle with grated chocolate.
+3.  Enjoy.
+
 ### Severe Perl
 
 Associations: severe, dry, desert, camel.
