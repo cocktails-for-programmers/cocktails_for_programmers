@@ -116,10 +116,10 @@ Profit! sollte süß und luftig sein. So haben wir diesen Cocktail kennengelernt
 **Anleitung:**
 
 1.  Mit Eis mixen und abseihen.
-2.  Mit Schlagsahne garnieren und Kakaopulver besträuen (nimm ein Sieb zur Hilfe).
+2.  Mit Schlagsahne garnieren und mit Kakaopulver besträuen (nimm ein Sieb zur Hilfe).
 3.  Setze eine Kirsche auf die Spitze.
 
-Dieser Cocktail ist ziemlich süß, mit einem interessanten Geschmack.
+Dieser Cocktail ist ziemlich süß und hat einen interessanten Geschmack.
 
 ### Epic Fail
 
