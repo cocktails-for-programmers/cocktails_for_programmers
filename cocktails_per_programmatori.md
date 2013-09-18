@@ -42,7 +42,7 @@ La bevanda avrà un gusto dolce, fragrante e fresco. Questo cocktail color rubin
 
 ### Python
 
-Questo cocktail deve ricordare il colore del Pitone Verde [green python](https://www.google.it/search?q=pitone+verde&ie=UTF-8&tbm=isch&source=og). :snake:
+Questo cocktail deve ricordare il colore del [Pitone Verde](https://www.google.it/search?q=pitone+verde&ie=UTF-8&tbm=isch&source=og). :snake:
 
 <img src="http://habr.habrastorage.org/post_images/a81/043/540/a81043540b546fe94fd3f8228c1be439.jpg" alt="Python" title="Python" />
 
