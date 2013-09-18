@@ -7,7 +7,7 @@
 * [Versión en Español](cócteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
 * [Version in Chinese](程序员鸡尾酒.md)
-* [Turkish version](programcılar_için_kokteyller.md)
+* [Turkish version](programcılar_için_kokteyller.md)
 
 ## Коктейли для программистов
 
