@@ -165,7 +165,7 @@ Come da progetto, il limone e la Coca Cola nascondono il gusto dell'alcol, ovvia
 * Idea - Ilya Zykin. [github.com/the-teacher](https://github.com/the-teacher)
 * English v1.0 - [Sergey Romanov](https://github.com/srg-rmnv)
 * English v2.0 - [Trevor Strieber](https://github.com/TrevorS)
-# Italiano - [MiPnamic](https://github.com/MiPnamic)
+* Italiano - [MiPnamic](https://github.com/MiPnamic)
 
 ##### Pubblicati da MIT :)
 
