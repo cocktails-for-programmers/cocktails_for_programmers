@@ -17,7 +17,7 @@ Sākotnējais ieraksts: http://habrahabr.ru/post/192942/ (krieviski)
 * [Versión en Español](cócteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
 * [Version in Chinese](程序员鸡尾酒.md)
-* [Latviski](kokteili_programmetajiem.md)
+* [Latviskotā versija](kokteili_programmetajiem.md)
 
 ### Ruby
 
@@ -162,5 +162,6 @@ Plānots, ka citrons un kola apslēps alkohola garšu. Bet, ja pārspīlēs ar d
 * Izpildījums - Артём aka "Салатыч ★ Ахтынг" [BARaDOMa.net](http://vk.com/baradomanet)
 * Foto - Анна Нечаева. [Anna's open cook](http://open-cook.ru)
 * Ideja - Илья Зыкин. [github.com/the-teacher](https://github.com/the-teacher)
+* Tulkoja Didzis Uzuliņš.
 
 ##### Published by MIT :)
