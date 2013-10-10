@@ -78,7 +78,7 @@ Associations: severe, dry, desert, camel.
 
 ```
 - 30 mL Gin
-- 20 mL Dry Vermouth Rosso
+- 20 mL Sweet Vermouth (aka Rosso)
 - 20 mL Lemon Juice
 - 10 mL Syrup
 ```
