@@ -27,7 +27,7 @@ Sākotnējais ieraksts: http://habrahabr.ru/post/192942/ (krieviski)
 
 ```
 - 20 mL Malibu (kokosriekstu liķieris)
-- 20 mL Līču liķieris
+- 20 mL Liči liķieris
 - 40 mL Konjaks vai brendijs
 - 150 mL Ķiršu sula
 - Citrons
@@ -36,7 +36,7 @@ Sākotnējais ieraksts: http://habrahabr.ru/post/192942/ (krieviski)
 
 **Pagatavošana:**
 
-1.  Salej pamatkomponentes augstajā glāzē, kas piepildīta ar ledu.
+1.  Salej pamatkomponentes atdzesētā collins glāzē, kas piepildīta ar ledu.
 2.  Iespiež citrona sulu garšai.
 3.  Pamatīgi samaisa līdz glāze ir "aizmiglojusies".
 4.  Dekorē ar apelsīna šķēli un kokteiļa ķirsīti.
@@ -59,7 +59,7 @@ Dzēriens būs salds, aromātisks un atspirdzinošs. Kokteiļa rubīnkrāsa perf
 
 **Pagatavošana:**
 
-1.  Sakrata visas pamatkomponentes ar ledu.
+1.  Sašeiko visas pamatkomponentes ar ledu.
 2.  Ielej glāzē un pielej Sprite.
 3.  Dekorē ar laima šķēli.
 
@@ -80,7 +80,7 @@ Jāpasniedz ātri, jo skaistās putiņas ātri nosēžās. Šis dzēriens ir ats
 
 **Pagatavošana:**
 
-1.  Sakrata visas pamatsastāvdaļas ar ledu.
+1.  Sašeiko visas pamatsastāvdaļas ar ledu.
 2.  Dekorē ar [zemes ķirsi](http://en.wikipedia.org/wiki/Physalis).
 
 ## JMP (aka Assembler)
@@ -113,7 +113,7 @@ Jāpasniedz ātri, jo skaistās putiņas ātri nosēžās. Šis dzēriens ir ats
 
 **Pagatavošana:**
 
-1.  Sakrata šeikerī visas pamatsastāvdaļas.
+1.  Sašeiko visas pamatsastāvdaļas.
 2.  Izdekorē ar putukrējumu un pārkaisa ar kakao pulveri (labākam rezultātam izmantot sietiņu).
 3.  Pa virsu uzliek ķirsi.
 
@@ -125,7 +125,7 @@ Kokteilis būs patīkami salds ar interesantu garšu.
 
 ```
 - 50 mL Šņabis
-- 100 mL Kola
+- 100 mL Cola
 - Puse citrona sulas
 - Ledus
 ```
@@ -148,13 +148,13 @@ Plānots, ka citrons un kola apslēps alkohola garšu. Bet, ja pārspīlēs ar d
 - 50 mL Triple Sec (stiprs, salds apelsīnu liķieris)
 - 50 mL kafijas liķieris Kahlua
 - Laims
-- Kola
+- Cola
 ```
 
 **Pagatavošana:**
 
 1.  Piepilda glāzi ar ledu un maziem laima gabaliņiem.
-2.  Pievieno atlikušās sastāvdaļas un kārtīg samaisa.
+2.  Pievieno atlikušās sastāvdaļas un kārtīgi samaisa.
 3.  Izdekorē ar laima šķēli un ir izdevies apdullinošs dzēriens.
 
 ### Kokteiļus gatavoja
@@ -162,6 +162,6 @@ Plānots, ka citrons un kola apslēps alkohola garšu. Bet, ja pārspīlēs ar d
 * Izpildījums - Артём aka "Салатыч ★ Ахтынг" [BARaDOMa.net](http://vk.com/baradomanet)
 * Foto - Анна Нечаева. [Anna's open cook](http://open-cook.ru)
 * Ideja - Илья Зыкин. [github.com/the-teacher](https://github.com/the-teacher)
-* Tulkoja Didzis Uzuliņš.
+* Tulkoja Didzis Uzuliņš, stila kļūdas laboja [Diāna Oberšate](http://timsmints.lv/index.php/par-mums)
 
 ##### Published by MIT :)
