@@ -81,7 +81,7 @@ Jāpasniedz ātri, jo skaistās putiņas ātri nosēžās. Šis dzēriens ir ats
 **Pagatavošana:**
 
 1.  Sašeiko visas pamatsastāvdaļas ar ledu.
-2.  Dekorē ar [zemes ķirsi](http://en.wikipedia.org/wiki/Physalis).
+2.  Dekorē ar [fizāli](http://en.wikipedia.org/wiki/Physalis).
 
 ## JMP (aka Assembler)
 
@@ -90,7 +90,7 @@ Jāpasniedz ātri, jo skaistās putiņas ātri nosēžās. Šis dzēriens ir ats
 ```
 - 20 mL J-agermeister (zāļu liķieris)
 - 20 mL M-idori (meloņu liķieris) + Laims
-- 20 mL P-each (persiku sīrups
+- 20 mL P-each (persiku sīrups)
 ```
 
 **Pagatavošana:**
@@ -162,6 +162,6 @@ Plānots, ka citrons un kola apslēps alkohola garšu. Bet, ja pārspīlēs ar d
 * Izpildījums - Артём aka "Салатыч ★ Ахтынг" [BARaDOMa.net](http://vk.com/baradomanet)
 * Foto - Анна Нечаева. [Anna's open cook](http://open-cook.ru)
 * Ideja - Илья Зыкин. [github.com/the-teacher](https://github.com/the-teacher)
-* Tulkoja Didzis Uzuliņš, stila kļūdas laboja [Diāna Oberšate](http://timsmints.lv/index.php/par-mums)
+* Tulkoja Didzis Uzuliņš, terminoloģijas kļūdas laboja [Diāna Oberšate](http://timsmints.lv/index.php/par-mums)
 
 ##### Published by MIT :)
