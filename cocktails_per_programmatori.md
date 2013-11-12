@@ -133,11 +133,11 @@ Questo cocktail è molto dolce e ha un gusto molto interessante.
 
 **Preparazione:**
 
-1.  Riempite un bicchiere con ghiaccio e gli ingredienti.
-2.  escolare fino a che il vetro del bicchiere non si appanna.
+1.  Riempire un bicchiere con ghiaccio e gli ingredienti.
+2.  Mescolare fino a che il vetro del bicchiere non si appanna.
 3.  Guarnire con una fettina di limone.
 
-Come da progetto, il limone e la Coca Cola nascondono il gusto dell'alcol, ovviamente, un abuso di questo cocktail port ad un vero e proprio fallimento epico. Fate attenzione se volete provare qualcosa di simile!
+Come da progetto, il limone e la Coca Cola nascondono il gusto dell'alcol. Ovviamente, un abuso di questo cocktail porta ad un vero e proprio fallimento epico. Fate attenzione se volete provare qualcosa di simile!
 
 ### Memory Leak
 
