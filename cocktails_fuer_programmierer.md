@@ -27,8 +27,8 @@ PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comm
 <img src="http://habr.habrastorage.org/post_images/c50/c74/b1b/c50c74b1bad7a7a785c5055eaeb6a0aa.jpg" alt="Ruby" title="Ruby" />
 
 ```
-- 20 mL Malibu (Kokosnuslikör)
-- 20 mL Lychee Likör (a fruit)
+- 20 mL Malibu (Kokosnusslikör)
+- 20 mL Litschilikör
 - 40 mL Cognac oder Brandy
 - 150 mL Kirschsaft
 - Zitrone
