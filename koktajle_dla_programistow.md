@@ -1,24 +1,24 @@
-## Koktajle dla programist�w
+## Koktajle dla programistów
 
-Kulinarny projekt na profesjonalne �wi�to - "Dzie� programist�w", celebrowany 256 dnia roku.
+Kulinarny projekt na profesjonalne święto - "Dzień programistów", celebrowany 256 dnia roku.
 
-W tym roku b�dziemy je obchodzi� 13 sierpnia! :)
+W tym roku będziemy je obchodzić 13 sierpnia! :)
 
-Tutaj jest wersja na GitHubie dla fork�w i pull-request�w.
+Tutaj jest wersja na GitHubie dla forków i pull-requestów.
 
 Oryginaly post: http://habrahabr.ru/post/192942/ (in russian)
 
-PS: [�wietne komentarze na Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
+PS: [Świetne komentarze na Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
 
 #### Wersje
 
-* [P?????? ??????](README.md)
+* [Pусская версия](README.md)
 * [English version](cocktails_for_programers.md)
 * [Versao em Portugues](coqueteis_para_programadores.md)
-* [Versiunea Rom�n�](cocktailuri_pentru_programatori.md)
-* [Versi�n en Espanol](c�cteles_para_programadores.md)
+* [Versiunea Română](cocktailuri_pentru_programatori.md)
+* [Versión en Espanol](cócteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
-* [Version in Chinese](??????.md)
+* [Version in Chinese](程序员鸡尾酒.md)
 * [Wersja po polsku](koktajle_dla_programistow.md)
 * [한국어 버전](프로그래머를_위한_칵테일.md)
 
@@ -32,45 +32,45 @@ PS: [�wietne komentarze na Reddit](http://www.reddit.com/r/programming/comment
 - 20 ml Malibu (Likieru kokosowego)
 - 20 ml Likier z Liczi
 - 40 ml koniaku lub Brandy
-- 150 ml soku wi�niowego
+- 150 ml soku wiśniowego
 - Cytryna
-- L�d
+- Lód
 ```
 
 **Wykonanie:**
 
-1.  Dodaj podstawowe sk�adniki do wysokiej szklanki z lodem.
+1.  Dodaj podstawowe składniki do wysokiej szklanki z lodem.
 2.  Dodaj sok z cytryny dla smaku.
-3.  Dok�adnie wymiesza�.
-4.  Udekorowa�. Najlepiej plastrem pomara�czy i wi�ni�.
+3.  Dokładnie wymieszać.
+4.  Udekorować. Najlepiej plastrem pomarańczy i wiśnią.
 
-Drink jest s�odki, pachn�ci i od�wie�a. Koktajl w tym kolorze doskonale pasuje do logo Ruby.
+Drink jest słodki, pachnąci i odświeża. Koktajl w tym kolorze doskonale pasuje do logo Ruby.
 
 ### Python
 
-Ten kontajl wygl�da ja [zielony pyton](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
+Ten kontajl wygląda ja [zielony pyton](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
 
 <img src="http://habr.habrastorage.org/post_images/a81/043/540/a81043540b546fe94fd3f8228c1be439.jpg" alt="Python" title="Python" />
 
 <img src="http://habr.habrastorage.org/post_images/8b2/170/619/8b21706197f93ffde4f8f1d7cb9c444b.jpg" alt="Python" title="Python" />
 
 ```
-- 50 ml Bia�ego rumu
-- 30 ml likieru mi�towego
+- 50 ml Białego rumu
+- 30 ml likieru miętowego
 - 30 ml soku z ananasa
-- sok z po��wki cytryny
+- sok z połówki cytryny
 - Sprite lub 7 Up
 ```
 
 **Wykonanie:**
 
-1.  Wstrz�sn�� razem z lodem i przecedzi�.
-2.  Wla� do szklanki i doda� jeden z napoj�w.
-3.  Ozdobi� plastrem limonki.
+1.  Wstrząsnąć razem z lodem i przecedzić.
+2.  Wlać do szklanki i dodać jeden z napojów.
+3.  Ozdobić plastrem limonki.
 
-Koktajl musi by� podany szybko, gdy� jego pianka bardzo szybko znika. Drink ten ma �wie�y, ananasowy smak.
+Koktajl musi być podany szybko, gdyż jego pianka bardzo szybko znika. Drink ten ma świeży, ananasowy smak.
 
-### Ci�ki Perl
+### Ciężki Perl
 
 <img src="http://habr.habrastorage.org/post_images/122/4c2/773/1224c27737964d566311aae4fae37829.jpg" alt="Severe Perl" title="Severe Perl" />
 
@@ -78,33 +78,33 @@ Koktajl musi by� podany szybko, gdy� jego pianka bardzo szybko znika. Drink 
 
 ```
 - 30 ml Ginu
-- 20 ml S�odkiego Wermutu (aka Rosso)
+- 20 ml Słodkiego Wermutu (aka Rosso)
 - 20 ml Sok z cytryny
 - 10 ml Syropu
 ```
 
 **Wykonanie:**
 
-1.  Wstrz�sn�� razem z lodem i przecedzi�.
-2.  Udekorowa� [miechunk�](http://pl.wikipedia.org/wiki/Miechunka).
+1.  Wstrząsnąć razem z lodem i przecedzić.
+2.  Udekorować [miechunką](http://pl.wikipedia.org/wiki/Miechunka).
 
 ## JMP (aka Assembler)
 
 <img src="http://habr.habrastorage.org/post_images/e40/2f5/004/e402f5004acdd7ad9f7d834fed1dc6f1.jpg" alt="JMP" title="JMP" />
 
 ```
-- 20 ml Jagermeistera (likier zio�owy)
+- 20 ml Jagermeistera (likier ziołowy)
 - 20 ml Midori (likier melonowy) + Cytryna
 - 20 ml Syrop brzoskwiniowy
 ```
 
 **Wykonanie:**
 
-1.  Wlej wszystkie sk�adniki do wysokiego kieliszka, warstwa po warstwie.
+1.  Wlej wszystkie składniki do wysokiego kieliszka, warstwa po warstwie.
 
 ### Zysk!
 
-Zyski powinny by� s�odkie i przewiewne. To, jak widzieli�my koktajl.
+Zyski powinny być słodkie i przewiewne. To, jak widzieliśmy koktajl.
 
 <img src="http://habr.habrastorage.org/post_images/962/c3f/122/962c3f12264c8baf7c00d7f5c2322905.jpg" alt="Profit!" title="Profit!"/>
 
@@ -112,36 +112,36 @@ Zyski powinny by� s�odkie i przewiewne. To, jak widzieli�my koktajl.
 - 20 ml likieru kremowego
 - 20 ml Creme de Cassis
 - 20 ml Triple Sec
-- Bita �mietana
+- Bita śmietana
 - Kakao (jako proszek)
 ```
 
 **Wykonanie:**
 
-1.  Wstrz�snij wszystkie sk�adniki wraz z lodem i przeced�.
-2.  Udekoruj bit� �mietan� i posyp kakaem w posztu.
-3.  Umie�� wi�ni� na g�rze.
+1.  Wstrząsnij wszystkie składniki wraz z lodem i przecedź.
+2.  Udekoruj bitą śmietaną i posyp kakaem w posztu.
+3.  Umieść wiśnię na górze.
 
-Koktajl jest s�odki i ma ciekawy smak.
+Koktajl jest słodki i ma ciekawy smak.
 
 ### Epic Fail
 
 <img src="http://habr.habrastorage.org/post_images/56f/3dc/235/56f3dc2353b0f845a3e8c29512f68dd7.jpg" alt="Epic Fail" title="Epic Fail" />
 
 ```
-- 50 ml W�dki
+- 50 ml Wódki
 - 100 ml Coli
-- Sok z po��wki cytryny
-- L�d
+- Sok z połówki cytryny
+- Lód
 ```
 
-**Wskaz�wki:**
+**Wskazówki:**
 
-1.  Nape�nij szklank� lodem i wszystkimi sk�adnikami
-2.  Dok�adnie wymiesza�, a� szk�o b�dzie zamglone.
-3.  Udekorowa� plastrem cytryny.
+1.  Napełnij szklankę lodem i wszystkimi składnikami
+2.  Dokładnie wymieszać, aż szkło będzie zamglone.
+3.  Udekorować plastrem cytryny.
 
-Zgodnie z projektem, cytryna i cola ukryj� smak alkoholu, ale je�li b�dzie du�o takich drink�w, to mo�ecie by� pewnie, �e zaliczycie EPIC FAIL!
+Zgodnie z projektem, cytryna i cola ukryją smak alkoholu, ale jeśli będzie dużo takich drinków, to możecie być pewnie, że zaliczycie EPIC FAIL!
 
 ### Memory Leak
 
@@ -149,7 +149,7 @@ Zgodnie z projektem, cytryna i cola ukryj� smak alkoholu, ale je�li b�dzie
 
 ```
 - 50 ml Tequili
-- 50 ml Bia�ego rumu
+- 50 ml Białego rumu
 - 50 ml Triple Sec
 - 50 ml Kahlua
 - Cytryna
@@ -158,15 +158,15 @@ Zgodnie z projektem, cytryna i cola ukryj� smak alkoholu, ale je�li b�dzie
 
 **Wykonanie:**
 
-1.  Wype�nij szklank� lodem i ma�ymi kawa�kami cytryny.
-2.  Doda� reszt� sk�adnik�w i wymiesza�.
-3.  Udekoruj plastrem cytryny/limonki i masz wspania�y i smaczny drink.
+1.  Wypełnij szklankę lodem i małymi kawałkami cytryny.
+2.  Dodać resztę składników i wymieszać.
+3.  Udekoruj plastrem cytryny/limonki i masz wspaniały i smaczny drink.
 
-### Koktajle zosta�y wykonane przez:
+### Koktajle zostały wykonane przez:
 
 * Stworzenie - Artem aka "Salatych ? Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
-* Zdj�cia - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
-* Pomys� - Ilya Zykin. [github.com/the-teacher](https://github.com/the-teacher)
+* Zdjęcia - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
+* Pomysł - Ilya Zykin. [github.com/the-teacher](https://github.com/the-teacher)
 * English v1.0 - [Sergey Romanov](https://github.com/srg-rmnv)
 * English v2.0 - [Trevor Strieber](https://github.com/TrevorS)
 
@@ -176,4 +176,4 @@ Zgodnie z projektem, cytryna i cola ukryj� smak alkoholu, ale je�li b�dzie
 
 
 
-###Opublikuj to! Zajmuje to wiele pracy i nie�le kopie, ale w ko�cu jest absolutnie satysfakcjonuj�ce i �agodzi :D
+###Opublikuj to! Zajmuje to wiele pracy i nieźle kopie, ale w końcu jest absolutnie satysfakcjonujące i łagodzi :D
