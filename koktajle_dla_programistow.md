@@ -1,25 +1,26 @@
-## Koktajle dla programistów
+## Koktajle dla programistï¿½w
 
-Kulinarny projekt na profesjonalne œwiêto - "Dzieñ programistów", celebrowany 256 dnia roku.
+Kulinarny projekt na profesjonalne ï¿½wiï¿½to - "Dzieï¿½ programistï¿½w", celebrowany 256 dnia roku.
 
-W tym roku bêdziemy je obchodziæ 13 sierpnia! :)
+W tym roku bï¿½dziemy je obchodziï¿½ 13 sierpnia! :)
 
-Tutaj jest wersja na GitHubie dla forków i pull-requestów.
+Tutaj jest wersja na GitHubie dla forkï¿½w i pull-requestï¿½w.
 
 Oryginaly post: http://habrahabr.ru/post/192942/ (in russian)
 
-PS: [Œwietne komentarze na Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
+PS: [ï¿½wietne komentarze na Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
 
 #### Wersje
 
 * [P?????? ??????](README.md)
 * [English version](cocktails_for_programers.md)
 * [Versao em Portugues](coqueteis_para_programadores.md)
-* [Versiunea Românã](cocktailuri_pentru_programatori.md)
-* [Versión en Espanol](cócteles_para_programadores.md)
+* [Versiunea Romï¿½nï¿½](cocktailuri_pentru_programatori.md)
+* [Versiï¿½n en Espanol](cï¿½cteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
 * [Version in Chinese](??????.md)
 * [Wersja po polsku](koktajle_dla_programistow.md)
+* [í•œêµ­ì–´ ë²„ì „](í”„ë¡œê·¸ë˜ë¨¸ë¥¼_ìœ„í•œ_ì¹µí…Œì¼.md)
 
 ### Ruby
 
@@ -31,45 +32,45 @@ PS: [Œwietne komentarze na Reddit](http://www.reddit.com/r/programming/comments/
 - 20 ml Malibu (Likieru kokosowego)
 - 20 ml Likier z Liczi
 - 40 ml koniaku lub Brandy
-- 150 ml soku wiœniowego
+- 150 ml soku wiï¿½niowego
 - Cytryna
-- Lód
+- Lï¿½d
 ```
 
 **Wykonanie:**
 
-1.  Dodaj podstawowe sk³adniki do wysokiej szklanki z lodem.
+1.  Dodaj podstawowe skï¿½adniki do wysokiej szklanki z lodem.
 2.  Dodaj sok z cytryny dla smaku.
-3.  Dok³adnie wymieszaæ.
-4.  Udekorowaæ. Najlepiej plastrem pomarañczy i wiœni¹.
+3.  Dokï¿½adnie wymieszaï¿½.
+4.  Udekorowaï¿½. Najlepiej plastrem pomaraï¿½czy i wiï¿½niï¿½.
 
-Drink jest s³odki, pachn¹ci i odœwie¿a. Koktajl w tym kolorze doskonale pasuje do logo Ruby.
+Drink jest sï¿½odki, pachnï¿½ci i odï¿½wieï¿½a. Koktajl w tym kolorze doskonale pasuje do logo Ruby.
 
 ### Python
 
-Ten kontajl wygl¹da ja [zielony pyton](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
+Ten kontajl wyglï¿½da ja [zielony pyton](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
 
 <img src="http://habr.habrastorage.org/post_images/a81/043/540/a81043540b546fe94fd3f8228c1be439.jpg" alt="Python" title="Python" />
 
 <img src="http://habr.habrastorage.org/post_images/8b2/170/619/8b21706197f93ffde4f8f1d7cb9c444b.jpg" alt="Python" title="Python" />
 
 ```
-- 50 ml Bia³ego rumu
-- 30 ml likieru miêtowego
+- 50 ml Biaï¿½ego rumu
+- 30 ml likieru miï¿½towego
 - 30 ml soku z ananasa
-- sok z po³ówki cytryny
+- sok z poï¿½ï¿½wki cytryny
 - Sprite lub 7 Up
 ```
 
 **Wykonanie:**
 
-1.  Wstrz¹sn¹æ razem z lodem i przecedziæ.
-2.  Wlaæ do szklanki i dodaæ jeden z napojów.
-3.  Ozdobiæ plastrem limonki.
+1.  Wstrzï¿½snï¿½ï¿½ razem z lodem i przecedziï¿½.
+2.  Wlaï¿½ do szklanki i dodaï¿½ jeden z napojï¿½w.
+3.  Ozdobiï¿½ plastrem limonki.
 
-Koktajl musi byæ podany szybko, gdy¿ jego pianka bardzo szybko znika. Drink ten ma œwie¿y, ananasowy smak.
+Koktajl musi byï¿½ podany szybko, gdyï¿½ jego pianka bardzo szybko znika. Drink ten ma ï¿½wieï¿½y, ananasowy smak.
 
-### Ciê¿ki Perl
+### Ciï¿½ki Perl
 
 <img src="http://habr.habrastorage.org/post_images/122/4c2/773/1224c27737964d566311aae4fae37829.jpg" alt="Severe Perl" title="Severe Perl" />
 
@@ -77,33 +78,33 @@ Koktajl musi byæ podany szybko, gdy¿ jego pianka bardzo szybko znika. Drink ten 
 
 ```
 - 30 ml Ginu
-- 20 ml S³odkiego Wermutu (aka Rosso)
+- 20 ml Sï¿½odkiego Wermutu (aka Rosso)
 - 20 ml Sok z cytryny
 - 10 ml Syropu
 ```
 
 **Wykonanie:**
 
-1.  Wstrz¹sn¹æ razem z lodem i przecedziæ.
-2.  Udekorowaæ [miechunk¹](http://pl.wikipedia.org/wiki/Miechunka).
+1.  Wstrzï¿½snï¿½ï¿½ razem z lodem i przecedziï¿½.
+2.  Udekorowaï¿½ [miechunkï¿½](http://pl.wikipedia.org/wiki/Miechunka).
 
 ## JMP (aka Assembler)
 
 <img src="http://habr.habrastorage.org/post_images/e40/2f5/004/e402f5004acdd7ad9f7d834fed1dc6f1.jpg" alt="JMP" title="JMP" />
 
 ```
-- 20 ml Jagermeistera (likier zio³owy)
+- 20 ml Jagermeistera (likier zioï¿½owy)
 - 20 ml Midori (likier melonowy) + Cytryna
 - 20 ml Syrop brzoskwiniowy
 ```
 
 **Wykonanie:**
 
-1.  Wlej wszystkie sk³adniki do wysokiego kieliszka, warstwa po warstwie.
+1.  Wlej wszystkie skï¿½adniki do wysokiego kieliszka, warstwa po warstwie.
 
 ### Zysk!
 
-Zyski powinny byæ s³odkie i przewiewne. To, jak widzieliœmy koktajl.
+Zyski powinny byï¿½ sï¿½odkie i przewiewne. To, jak widzieliï¿½my koktajl.
 
 <img src="http://habr.habrastorage.org/post_images/962/c3f/122/962c3f12264c8baf7c00d7f5c2322905.jpg" alt="Profit!" title="Profit!"/>
 
@@ -111,36 +112,36 @@ Zyski powinny byæ s³odkie i przewiewne. To, jak widzieliœmy koktajl.
 - 20 ml likieru kremowego
 - 20 ml Creme de Cassis
 - 20 ml Triple Sec
-- Bita œmietana
+- Bita ï¿½mietana
 - Kakao (jako proszek)
 ```
 
 **Wykonanie:**
 
-1.  Wstrz¹snij wszystkie sk³adniki wraz z lodem i przecedŸ.
-2.  Udekoruj bit¹ œmietan¹ i posyp kakaem w posztu.
-3.  Umieœæ wiœniê na górze.
+1.  Wstrzï¿½snij wszystkie skï¿½adniki wraz z lodem i przecedï¿½.
+2.  Udekoruj bitï¿½ ï¿½mietanï¿½ i posyp kakaem w posztu.
+3.  Umieï¿½ï¿½ wiï¿½niï¿½ na gï¿½rze.
 
-Koktajl jest s³odki i ma ciekawy smak.
+Koktajl jest sï¿½odki i ma ciekawy smak.
 
 ### Epic Fail
 
 <img src="http://habr.habrastorage.org/post_images/56f/3dc/235/56f3dc2353b0f845a3e8c29512f68dd7.jpg" alt="Epic Fail" title="Epic Fail" />
 
 ```
-- 50 ml Wódki
+- 50 ml Wï¿½dki
 - 100 ml Coli
-- Sok z po³ówki cytryny
-- Lód
+- Sok z poï¿½ï¿½wki cytryny
+- Lï¿½d
 ```
 
-**Wskazówki:**
+**Wskazï¿½wki:**
 
-1.  Nape³nij szklankê lodem i wszystkimi sk³adnikami
-2.  Dok³adnie wymieszaæ, a¿ szk³o bêdzie zamglone.
-3.  Udekorowaæ plastrem cytryny.
+1.  Napeï¿½nij szklankï¿½ lodem i wszystkimi skï¿½adnikami
+2.  Dokï¿½adnie wymieszaï¿½, aï¿½ szkï¿½o bï¿½dzie zamglone.
+3.  Udekorowaï¿½ plastrem cytryny.
 
-Zgodnie z projektem, cytryna i cola ukryj¹ smak alkoholu, ale jeœli bêdzie du¿o takich drinków, to mo¿ecie byæ pewnie, ¿e zaliczycie EPIC FAIL!
+Zgodnie z projektem, cytryna i cola ukryjï¿½ smak alkoholu, ale jeï¿½li bï¿½dzie duï¿½o takich drinkï¿½w, to moï¿½ecie byï¿½ pewnie, ï¿½e zaliczycie EPIC FAIL!
 
 ### Memory Leak
 
@@ -148,7 +149,7 @@ Zgodnie z projektem, cytryna i cola ukryj¹ smak alkoholu, ale jeœli bêdzie du¿o 
 
 ```
 - 50 ml Tequili
-- 50 ml Bia³ego rumu
+- 50 ml Biaï¿½ego rumu
 - 50 ml Triple Sec
 - 50 ml Kahlua
 - Cytryna
@@ -157,15 +158,15 @@ Zgodnie z projektem, cytryna i cola ukryj¹ smak alkoholu, ale jeœli bêdzie du¿o 
 
 **Wykonanie:**
 
-1.  Wype³nij szklankê lodem i ma³ymi kawa³kami cytryny.
-2.  Dodaæ resztê sk³adników i wymieszaæ.
-3.  Udekoruj plastrem cytryny/limonki i masz wspania³y i smaczny drink.
+1.  Wypeï¿½nij szklankï¿½ lodem i maï¿½ymi kawaï¿½kami cytryny.
+2.  Dodaï¿½ resztï¿½ skï¿½adnikï¿½w i wymieszaï¿½.
+3.  Udekoruj plastrem cytryny/limonki i masz wspaniaï¿½y i smaczny drink.
 
-### Koktajle zosta³y wykonane przez:
+### Koktajle zostaï¿½y wykonane przez:
 
 * Stworzenie - Artem aka "Salatych ? Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
-* Zdjêcia - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
-* Pomys³ - Ilya Zykin. [github.com/the-teacher](https://github.com/the-teacher)
+* Zdjï¿½cia - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
+* Pomysï¿½ - Ilya Zykin. [github.com/the-teacher](https://github.com/the-teacher)
 * English v1.0 - [Sergey Romanov](https://github.com/srg-rmnv)
 * English v2.0 - [Trevor Strieber](https://github.com/TrevorS)
 
@@ -175,4 +176,4 @@ Zgodnie z projektem, cytryna i cola ukryj¹ smak alkoholu, ale jeœli bêdzie du¿o 
 
 
 
-###Opublikuj to! Zajmuje to wiele pracy i nieŸle kopie, ale w koñcu jest absolutnie satysfakcjonuj¹ce i ³agodzi :D
+###Opublikuj to! Zajmuje to wiele pracy i nieï¿½le kopie, ale w koï¿½cu jest absolutnie satysfakcjonujï¿½ce i ï¿½agodzi :D

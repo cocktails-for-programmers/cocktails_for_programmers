@@ -20,6 +20,7 @@ PS: [Nejlepší komentáře na Reddit](http://www.reddit.com/r/programming/comme
 * [Německá verze](cocktails_fuer_programmierer.md)
 * [Čínská verze](程序员鸡尾酒.md)
 * [Česká verze](koktejly_pro_programatory.md)
+* [한국어 버전](프로그래머를_위한_칵테일.md)
 
 ### Ruby
 
