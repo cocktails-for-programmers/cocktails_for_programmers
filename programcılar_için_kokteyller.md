@@ -20,6 +20,7 @@ Not: [Reddit'teki yorumlar](http://www.reddit.com/r/programming/comments/1m6n2g/
 * [Almanca](cocktails_fuer_programmierer.md)
 * [Çince](程序员鸡尾酒.md)
 * [Türkçe](programcılar_için_kokteyller.md)
+* [한국어 버전](프로그래머를_위한_칵테일.md)
 
 ### Ruby
 
