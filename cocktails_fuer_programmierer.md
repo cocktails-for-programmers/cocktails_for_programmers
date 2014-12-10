@@ -19,6 +19,7 @@ PS: [Großartige Kommentare auf Reddit](http://www.reddit.com/r/programming/comm
 * [Versión en Español](cócteles_para_programadores.md)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
 * [Version in Chinese](程序员鸡尾酒.md)
+* [한국어 버전](프로그래머를_위한_칵테일.md)
 
 ### Ruby
 
