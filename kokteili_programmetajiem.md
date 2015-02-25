@@ -18,6 +18,7 @@ Sākotnējais ieraksts: http://habrahabr.ru/post/192942/ (krieviski)
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
 * [Version in Chinese](程序员鸡尾酒.md)
 * [Latviskotā versija](kokteili_programmetajiem.md)
+* [한국어 버전](프로그래머를_위한_칵테일.md)
 
 ### Ruby
 
