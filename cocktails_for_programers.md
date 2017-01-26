@@ -2,7 +2,7 @@
 
 A culinary project for a professional holiday - "Programmers Day", celebrated on the 256th day of the year.
 
-This year Programmers Day is Friday the 13th of September! :)
+This year Programmers Day is Sunday the 13th of September! :)
 
 Here is the GitHub version for forks and pull-requests.
 
