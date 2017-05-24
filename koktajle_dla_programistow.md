@@ -1,8 +1,6 @@
 ## Koktajle dla programistów
 
-Kulinarny projekt na profesjonalne święto - "Dzień programistów", celebrowany 256 dnia roku.
-
-W tym roku będziemy je obchodzić 13 sierpnia! :)
+Kulinarny projekt na profesjonalne święto - "Dzień programistów", celebrowany 256 dnia roku. :)
 
 Tutaj jest wersja na GitHubie dla forków i pull-requestów.
 

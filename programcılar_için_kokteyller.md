@@ -1,8 +1,6 @@
 ## Programcılar için kokteyller
 
-Bu proje her yılın 256. gününde kutlanan "Programcılar Günü" için düşünülmüş bir mutfak sanatları projesidir.
-
-Bu yıl Programcılar Günü 13 Eylül Cuma gününe denk geliyor! :)
+Bu proje her yılın 256. gününde kutlanan "Programcılar Günü" için düşünülmüş bir mutfak sanatları projesidir. :)
 
 Bu depo da projeyi çatallamanız ve kendi dilinizi eklemeniz için GitHub sürümü.
 
