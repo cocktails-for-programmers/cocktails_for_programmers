@@ -1,8 +1,6 @@
 ## Cocktailuri pentru Programatori
 
-Un proiect culinar pentru o zi de muncă liberă - "Ziua Programatorilor", sărbătorită în a 256-a zi din an.
-
-În acest an, ziua programatorilor este sărbătorită Vineri 13 Septembrie! :)
+Un proiect culinar pentru o zi de muncă liberă - "Ziua Programatorilor", sărbătorită în a 256-a zi din an. :)
 
 Versiunea GitHub pentru forks și pull-requests.
 

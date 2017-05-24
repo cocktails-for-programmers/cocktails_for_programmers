@@ -1,8 +1,6 @@
 ## Cocktails für Programmierer
 
-Ein kulinarisches Projekt für eine professionelle Auszeit - den "Programmierer-Tag", zelebriert am 256ten Tag des Jahres.
-
-Der diesjährige Programmierer-Tag ist Freitag, der 13. September! :)
+Ein kulinarisches Projekt für eine professionelle Auszeit - den "Programmierer-Tag", zelebriert am 256ten Tag des Jahres. :)
 
 Dies ist die GitHub-Version für Forks und Pull-Requests.
 

@@ -1,8 +1,6 @@
 ## Kokteiļi programmētājiem
 
-Kulinārais projekts profesiju svētkiem - "Programmētāju dienai", kas tiek atzīmēta gada 256. dienā.
-
-Šogad Programmētāju diena ir piektdienā, 13. septembrī! :)
+Kulinārais projekts profesiju svētkiem - "Programmētāju dienai", kas tiek atzīmēta gada 256. dienā. :)
 
 Šī ir GitHub versija priekš forkiem un pull-rekvestiem.
 

@@ -1,8 +1,6 @@
 ## Cócteles para programadores
 
-Un proyecto culinario para un día festivo profesional, "Día del programador", celebrado el día 256 del año.
-
-¡El Día del Programador de este año es el 13 de Septiembre! :)
+Un proyecto culinario para un día festivo profesional, "Día del programador", celebrado el día 256 del año. :)
 
 Aquí está la versión de GitHub para forks and pull-requests.
 

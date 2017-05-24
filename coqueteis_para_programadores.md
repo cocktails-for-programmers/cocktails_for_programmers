@@ -1,8 +1,6 @@
 ## Coquetéis para Programadores
 
-Um projeto culinário para um feriado profissional - o "Dia do Programador", comemorado no 256º dia do ano.
-
-Nesse ano, o Dia do Programador é na sexta-feira 13 de setembro! :)
+Um projeto culinário para um feriado profissional - o "Dia do Programador", comemorado no 256º dia do ano. :)
 
 Essa é a versão do GitHub para forks e pull-requests.
 

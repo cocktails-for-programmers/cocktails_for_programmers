@@ -1,8 +1,6 @@
 ## Cocktails for Programmers
 
-A culinary project for a professional holiday - "Programmers Day", celebrated on the 256th day of the year.
-
-This year Programmers Day is Friday the 13th of September! :)
+A culinary project for a professional holiday - "Programmers Day", celebrated on the 256th day of the year. :)
 
 Here is the GitHub version for forks and pull-requests.
 
