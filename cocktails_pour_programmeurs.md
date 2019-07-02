@@ -1,14 +1,14 @@
-## Cocktails pour Programmeurs
+## Cocktails pour programmeurs
 
-A culinary project for a professional holiday - "Programmers Day", celebrated on the 256th day of the year.
+Un projet culinaire pour un jour ferié professionnel - Le "Programmers Day", fêté le 256ème jour de l'année.
 
-This year Programmers Day is Friday the 13th of September! :)
+Cette année, "Programmers Day" sera le 13 Septembre ! :)
 
-Here is the GitHub version for forks and pull-requests.
+Voici la version GitHub à forker et à mettre à jour.
 
-Original post: http://habrahabr.ru/post/192942/ (in russian)
+Basé sur: http://habrahabr.ru/post/192942/ (en Russe)
 
-PS: [Great comments on Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
+PS: [Commentaires sur Reddit](http://www.reddit.com/r/programming/comments/1m6n2g/cocktails_for_programmers/)
 
 #### Versions
 
@@ -28,50 +28,50 @@ PS: [Great comments on Reddit](http://www.reddit.com/r/programming/comments/1m6n
 <img src="http://habr.habrastorage.org/post_images/c50/c74/b1b/c50c74b1bad7a7a785c5055eaeb6a0aa.jpg" alt="Ruby" title="Ruby" />
 
 ```
-- 20 mL Malibu (coconut liqueur)
-- 20 mL Lychee Liqueur (a fruit)
-- 40 mL Cognac or Brandy
-- 150 mL Cherry juice
-- Lemon
-- Ice
+- 20 mL Malibu (liqueur de noix de coco)
+- 20 mL Liqueur de lychee
+- 40 mL Cognac ou Brandy
+- 150 mL Jus de cerise
+- Citron
+- Glace pilée
 ```
 
-**Directions:**
+**Recette:**
 
-1.  Add basic ingredients into a high glass filled with ice.
-2.  Add lemon juice to taste.
-3.  Thoroughly mix until the glass is misted.
-4.  Garnish with a slice of orange and a maraschino cherry.
+1.  Ajouter les ingrédients de base dans un verre haut rempli de glace.
+2.  Ajouter le jus de citron à votre guise.
+3.  Mélanger avec soin jusqu'à ce que le verre soit embué.
+4.  Agrémenter d'une tranche d'orange et d'une cerise au marasquin.
 
-The drink will be sweet, fragrant, and fresh. This ruby-coloured cocktail perfectly matches the Ruby logo.
+Le cocktail sera sucré, parfumé, et frais. Sa couleur correspond parfaitement à celle du logo Ruby.
 
 ### Python
 
-This cocktail looks like a [green python](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
+Ce cocktail ressemble à un [python vert](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
 
 <img src="http://habr.habrastorage.org/post_images/a81/043/540/a81043540b546fe94fd3f8228c1be439.jpg" alt="Python" title="Python" />
 
 <img src="http://habr.habrastorage.org/post_images/8b2/170/619/8b21706197f93ffde4f8f1d7cb9c444b.jpg" alt="Python" title="Python" />
 
 ```
-- 50 mL White Rum
-- 30 mL Mint Liqueur
-- 30 mL Pineapple Juice
-- Juice of Half a Lemon
-- Sprite or 7 Up
+- 50 mL Rhum blanc
+- 30 mL Liqueur de menthe
+- 30 mL Jus d'ananas
+- Jus d'un demi citron
+- Sprite ou 7 Up
 ```
 
-**Directions:**
+**Recette:**
 
-1.  Shake together with ice and strain.
-2.  Pour into a glass and add Sprite or 7 Up.
-3.  Garnish with a slice of lime.
+1.  Secouer tous les ingrédients ensembles avec la glace et filtrer.
+2.  Verser dans un verre et ajouter le Sprite ou le 7 Up.
+3.  Décorer d'une rondelle de citron.
 
-This cocktail must be served fast - its froth dissapears quickly. This drink has a fresh pineapple taste.
+Ce cocktail doit être servi rapidement - sa mousse tombe rapidement.
 
 ### Severe Perl
 
-Associations: severe, dry, desert, camel.
+Associations: severe, sec, desert, chameau.
 
 <img src="http://habr.habrastorage.org/post_images/122/4c2/773/1224c27737964d566311aae4fae37829.jpg" alt="Severe Perl" title="Severe Perl" />
 
@@ -80,32 +80,32 @@ Associations: severe, dry, desert, camel.
 ```
 - 30 mL Gin
 - 20 mL Sweet Vermouth (aka Rosso)
-- 20 mL Lemon Juice
-- 10 mL Syrup
+- 20 mL Jus de citron
+- 10 mL Sirop
 ```
 
-**Directions:**
+**Recette:**
 
-1.  Shake together with ice and strain.
-2.  Garnish with [physalis](http://en.wikipedia.org/wiki/Physalis).
+1.  Secouer tous les ingrédients ensembles et filtrer.
+2.  Décorer avec des [physalis](http://fr.wikipedia.org/wiki/Physalis).
 
 ## JMP (aka Assembler)
 
 <img src="http://habr.habrastorage.org/post_images/e40/2f5/004/e402f5004acdd7ad9f7d834fed1dc6f1.jpg" alt="JMP" title="JMP" />
 
 ```
-- 20 mL Jagermeister (herbal liqueur)
-- 20 mL Midori (melon liqueur) + Lime
-- 20 mL Peach Syrup
+- 20 mL Jagermeister (liqueur d'herbes)
+- 20 mL Midori (liqueur de melon) + Citron vert
+- 20 mL Sirop de pèche
 ```
 
-**Directions:**
+**Recette:**
 
-1.  Pour all the ingredients with a bar spoon in a high shot glass layer-by-layer.
+1.  Verser tous les ingrédients avec une cuillère à mélange dans un verre haut, couche par couche (voir photo).
 
 ### Profit!
 
-Profit! should be sweet and airy. That's how we saw this cocktail.
+Profit! devrait être doux et léger. C'est comme ça qu'on le voit.
 
 <img src="http://habr.habrastorage.org/post_images/962/c3f/122/962c3f12264c8baf7c00d7f5c2322905.jpg" alt="Profit!" title="Profit!"/>
 
@@ -113,17 +113,17 @@ Profit! should be sweet and airy. That's how we saw this cocktail.
 - 20 mL Creamy Liqueur
 - 20 mL Crème de Cassis
 - 20 mL Triple Sec
-- Whipped Cream
-- Cocoa Powder
+- Crème fouettée
+- Cacao en poudre
 ```
 
-**Directions:**
+**Recette:**
 
-1.  Shake together with ice and strain.
-2.  Garnish with whipped cream and dust with cocoa powder (use a sifter for better results).
-3.  Put a cherry on top.
+1.  Secouer tous les ingrédients ensembles et filtrer.
+2.  Garnir de crème fouettée et saupoudrer de cacao (utiliser un tamis pour un meilleur résultat).
+3.  Ajouter une cerise sur le tout.
 
-This cocktail is pretty sweet with an interesting taste.
+Ce cocktail est assez sucré avec un goût interessant.
 
 ### Epic Fail
 
@@ -131,18 +131,18 @@ This cocktail is pretty sweet with an interesting taste.
 
 ```
 - 50 mL Vodka
-- 100 mL Coke
-- Juice of Half a Lemon
-- Ice
+- 100 mL Coca Cola
+- Jus d'un demi citron
+- Glace pilée
 ```
 
-**Directions:**
+**Recette:**
 
-1.  Fill a glass of ice with all ingredients.
-2.  Thoroughly mix till the glass is misted.
-3.  Garnish with a lemon slice.
+1.  Remplir un verre avec la glace et tous les ingrédients.
+2.  Mélanger jusqu'à ce que le verre soit embué.
+3.  Décorer d'une rondelle de citron.
 
-By design, the lemon and Coke conceal the taste of alcohol. But if you go too far, it will be a real epic fail. Be careful if you want to try something like this!
+De par son concept, le jus de citron et le Coca dans ce cocktail masqueront le goût de l'alcool. Si vous allez trop loin, ça sera un vrai epic fail. Faites attention si vous voulez l'essayer !
 
 ### Memory Leak
 
@@ -150,35 +150,29 @@ By design, the lemon and Coke conceal the taste of alcohol. But if you go too fa
 
 ```
 - 50 mL Tequila
-- 50 mL White Rum
+- 50 mL Rhum blanc
 - 50 mL Triple Sec
 - 50 mL Kahlua
-- Lime
-- Coke
+- Citron vert
+- Coca Cola
 ```
 
-**Directions:**
+**Recette:**
 
-1.  Fill a glass with ice and small pieces of lime.
-2.  Add the rest of the ingredients and mix.
-3.  Garnish with a slice of lime and you've got tasty and stunning drink.
+1.  Remplir un verre avec de la glace et des zestes de citron vert.
+2.  Ajouter le reste des ingrédients et mélanger.
+3.  Décorez avec une rondelle de citron vert et vous obtiendrez un cocktail savoureux et surprenant.
 
-### Cocktails were made by
+### Les cocktails ont été composés par
 
 * Making - Artem aka "Salatych ★ Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
 * Photo - Anna Nechaeva. [Anna's open cook](http://open-cook.ru)
 * Idea - Ilya Zykin. [github.com/the-teacher](https://github.com/the-teacher)
 * English v1.0 - [Sergey Romanov](https://github.com/srg-rmnv)
 * English v2.0 - [Trevor Strieber](https://github.com/TrevorS)
+* Français v1.0 - [Furrtek](https://github.com/furrtek)
 
 ##### Published by MIT :)
-
-
-
-
-
-###Ship it! Should take lots of work and pack a punch, but in the end absolutely satisfying and relieving 
-
 
 
 
