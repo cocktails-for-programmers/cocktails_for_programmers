@@ -10,6 +10,7 @@
 * [Turkish version](programcılar_için_kokteyller.md)
 * [Versione Italiana](cocktails_per_programmatori.md)
 * [한국어 버전](프로그래머를_위한_칵테일.md)
+* [Version Française](cocktails_pour_programmeurs.md)
 
 ## Коктейли для программистов
 
