@@ -163,6 +163,57 @@ By design, the lemon and Coke conceal the taste of alcohol. But if you go too fa
 2.  Add the rest of the ingredients and mix.
 3.  Garnish with a slice of lime and you've got tasty and stunning drink.
 
+### Tschunk
+
+Tschunk is a famous Hacker cocktail that was developed around the "Chaos
+Computer Club" in Berlin and is now well known to many Hackers in Europe. The combination
+of alcohol and coffein (from the
+[mate](http://en.wikipedia.org/wiki/Mate_(beverage)) makes it highly
+vitalizing at first. But don't shoot over your [Ballmer
+Peak](http://xkcd.com/323/) ;)
+
+<img src="http://farm8.staticflickr.com/7387/9783299973_95dda19722_o.jpg"
+alt="Tschunk" title="Tschunk">
+
+```
+- 160mL Carbonated mate-extract (best results with Club-Mate)
+- 40mL Rum (best results with Havana Añejo 3 Años)
+- 1/2 Lime
+- 1 tbsp. cane sugar
+- Crushed ice
+```
+
+**Directions:**
+
+1. To garnish: Sweep over the edge of the glass with a lime wedge, then wallow
+   the edge in a plate of cane sugar
+2. Dice the lime and fill it in the glass together with the sugar
+3. Squash the ingredients in the glass with a wooden pestle
+4. Fill the glass with crushed ice
+5. Add the rum
+6. Carefully add the carbonated mate-extract (might foam over!)
+7. Carefully stir it a bit
+8. Garnish with a straw and a lime slice
+
+**Note:** [Club-Mate](http://en.wikipedia.org/wiki/Club-Mate) is currently
+distributed to 40 countries. If yours is not in the list, there are many
+alternatives, and you can even brew it yourself. All you need is 4 tsp. mate
+leaves, 4 tsp. cane sugar, half a lemon and a water carbonator:
+
+1. Boil 1L of water
+2. In a small cup add suggar and lemon juice and approx. 20mL of the boiling water to make it
+   into a sirup
+3. Add the mate leaves to the rest of the boiling water and allow it to infuse for
+   approx. 4 Minutes.
+4. Cool it down, until you can safely use your water carbonator (if it's still
+   too hot and your carbonator is made out of plastic it might melt!)
+5. After carbonating the mate, add your sirup (both must still be a little warm)
+6. Refrigerate it
+
+You could also add everything right away, but the suggar and lemon juice will
+mess up your carbonator and it's really hard to clean afterwards!
+
+
 ### Cocktails were made by
 
 * Making - Artem aka "Salatych ★ Achtyng" [BARaDOMa.net](http://vk.com/baradomanet)
