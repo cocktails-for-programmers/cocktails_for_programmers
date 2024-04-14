@@ -23,9 +23,9 @@ PS: [Ótimos comentários no Reddit](http://www.reddit.com/r/programming/comment
 
 ### Ruby
 
-<img src="http://habr.habrastorage.org/post_images/d9a/b87/91d/d9ab8791dff93a03020fc96faf408c48.jpg" alt="Ruby" title="Ruby" />
+<img src="/images/1-ruby.jpg" alt="Ruby" title="Ruby" />
 
-<img src="http://habr.habrastorage.org/post_images/c50/c74/b1b/c50c74b1bad7a7a785c5055eaeb6a0aa.jpg" alt="Ruby" title="Ruby" />
+<img src="./images/2-ruby.jpg" alt="Ruby" title="Ruby" />
 
 ```
 - 20 mL Malibu (licor de coco)
@@ -49,9 +49,9 @@ O drink será doce, perfumado e refrescante. Esse coquetel com cor de rubi combi
 
 Esse coquetel lembra uma [Píton verde](https://www.google.ru/search?q=green+python&ie=UTF-8&tbm=isch&source=og). :snake:
 
-<img src="http://habr.habrastorage.org/post_images/a81/043/540/a81043540b546fe94fd3f8228c1be439.jpg" alt="Python" title="Python" />
+<img src="./images/3-python.jpg" alt="Python" title="Python" />
 
-<img src="http://habr.habrastorage.org/post_images/8b2/170/619/8b21706197f93ffde4f8f1d7cb9c444b.jpg" alt="Python" title="Python" />
+<img src="./images/4-python.jpg" alt="Python" title="Python" />
 
 ```
 - 50 mL Rum branco
@@ -73,9 +73,9 @@ Esse coquetel deve ser servido rápido - a espuma desaparece rapidamente - e tem
 
 Associations: austeridade, seco, deserto, camelo.
 
-<img src="http://habr.habrastorage.org/post_images/122/4c2/773/1224c27737964d566311aae4fae37829.jpg" alt="Severe Perl" title="Severe Perl" />
+<img src="./images/5-perl.jpg" alt="Severe Perl" title="Severe Perl" />
 
-<img src="http://habr.habrastorage.org/post_images/335/a14/7a8/335a147a8eff811aa6cf6470c84181bd.jpg" alt="Severe Perl" title="Severe Perl" />
+<img src="./images/6-perl.jpg" alt="Severe Perl" title="Severe Perl" />
 
 ```
 - 30 mL Gin
@@ -91,7 +91,7 @@ Associations: austeridade, seco, deserto, camelo.
 
 ## JMP (aka Assembler)
 
-<img src="http://habr.habrastorage.org/post_images/e40/2f5/004/e402f5004acdd7ad9f7d834fed1dc6f1.jpg" alt="JMP" title="JMP" />
+<img src="./images/7-JMP.jpg" alt="JMP" title="JMP" />
 
 ```
 - 20 mL Jagermeister (licor de hervas)
@@ -107,7 +107,7 @@ Associations: austeridade, seco, deserto, camelo.
 
 Profit! tem um sabor doce e delicado. Foi assim que nós vimos esse coquetel:
 
-<img src="http://habr.habrastorage.org/post_images/962/c3f/122/962c3f12264c8baf7c00d7f5c2322905.jpg" alt="Profit!" title="Profit!"/>
+<img src="./images/8-profit.jpg" alt="Profit!" title="Profit!"/>
 
 ```
 - 20 mL Licor cremoso
@@ -127,7 +127,7 @@ Esse coquetel é bem doce e tem um gosto interessante.
 
 ### Epic Fail
 
-<img src="http://habr.habrastorage.org/post_images/56f/3dc/235/56f3dc2353b0f845a3e8c29512f68dd7.jpg" alt="Epic Fail" title="Epic Fail" />
+<img src="./images/9-epic-fail.jpg" alt="Epic Fail" title="Epic Fail" />
 
 ```
 - 50 mL Vodca
@@ -146,7 +146,7 @@ Por natureza, o limão e a Coca-Cola escondem o gosto do álcool. Mas se você e
 
 ### Memory Leak
 
-<img src="http://habr.habrastorage.org/post_images/6e8/159/0bf/6e81590bfa8295c4129415063b9ffde7.jpg" alt="Memory Leak" title="Memory Leak" />
+<img src="./images/10-memory-leak.jpg" alt="Memory Leak" title="Memory Leak" />
 
 ```
 - 50 mL Tequila
@@ -172,8 +172,3 @@ Por natureza, o limão e a Coca-Cola escondem o gosto do álcool. Mas se você e
 * English v2.0 - [Trevor Strieber](https://github.com/TrevorS)
 
 ##### Publicado pelo MIT :)
-
-
-
-
-
