@@ -16,6 +16,7 @@ PS: [Commenti geniali su Reddit](http://www.reddit.com/r/programming/comments/1m
 * [Version in Deutsch](cocktails_fuer_programmierer.md)
 * [Versione Italiana](cocktails_per_programmatori.md)
 * [한국어 버전](프로그래머를_위한_칵테일.md)
+* [日本語版](プログラマーのためのカクテル.md)
 
 ### Ruby
 

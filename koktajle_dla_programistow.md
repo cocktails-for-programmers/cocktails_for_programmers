@@ -21,6 +21,7 @@ PS: [Świetne komentarze na Reddit](http://www.reddit.com/r/programming/comments
 * [Version in Chinese](程序员鸡尾酒.md)
 * [Wersja po polsku](koktajle_dla_programistow.md)
 * [한국어 버전](프로그래머를_위한_칵테일.md)
+* [日本語版](プログラマーのためのカクテル.md)
 
 ### Ruby
 
