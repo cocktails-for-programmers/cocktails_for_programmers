@@ -2,7 +2,7 @@
 
 Kulinářský projekt ke dni - "Programmers Day" (Den Programátorů, Programátorský Den), který se slaví 256. den v roce.
 
-Tento rok vychází Programmers Day na Čtvrtek 13. Září! :)
+Tento rok vychází Programmers Day na Čtvrtek 12. Září! :)
 
 Zde je GitHub verze pro fork a pull requesty.
 
